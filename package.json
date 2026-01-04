@@ -1,0 +1,19 @@
+{
+  "name": "shopify_export",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shopify_export.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-stringify": "^6.6.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.34.0",
+    "xml2js": "^0.6.2"
+  }
+}
