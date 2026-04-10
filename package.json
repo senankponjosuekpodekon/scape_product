@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "shopify_export.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^1.13.5",
+    "cheerio": "^1.2.0",
     "csv-stringify": "^6.6.0",
     "json2csv": "^6.0.0-alpha.2",
     "node-fetch": "^3.3.2",

@@ -3,9 +3,9 @@ import fetch from "node-fetch";
 import puppeteer from "puppeteer";
 import xml2js from "xml2js";
 
-const BASE_URL = "https://lenasdiazcb.es";
+const BASE_URL = "https://www.strobetec.com";
 const SITEMAP_URL = `${BASE_URL}/sitemap.xml`;
-const VENDOR_NAME = "Pablo Escobar";
+const VENDOR_NAME = "Ehs Pellets Gmbh";
 
 /* =====================
    UTILS
