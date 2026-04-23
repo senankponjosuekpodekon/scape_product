@@ -5,9 +5,21 @@ const BASE_URL = "https://www.contentuslda.com";
 const SITEMAP_URL = `${BASE_URL}/wp-sitemap.xml`;
 
 async function fetchXml(url) {
-  const res = await fetch(url, { timeout: 20000 });
-  if (!res.ok) throw new Error(`Sitemap inaccessible : ${url}`);
-  return res.text();
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), 20000);
+
+  try {
+    const res = await fetch(url, { signal: controller.signal });
+    if (!res.ok) throw new Error(`Sitemap inaccessible : ${url}`);
+    return await res.text();
+  } catch (err) {
+    if (err.name === "AbortError") {
+      throw new Error(`Timeout sitemap : ${url}`);
+    }
+    throw err;
+  } finally {
+    clearTimeout(timeoutId);
+  }
 }
 
 async function extractUrlsFromSitemap(url) {

@@ -124,9 +124,21 @@ function cleanPrice(value) {
 }
 
 async function fetchXml(url) {
-  const res = await fetch(url, { timeout: 20000 });
-  if (!res.ok) throw new Error(`Sitemap inaccessible : ${url}`);
-  return res.text();
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), 20000);
+
+  try {
+    const res = await fetch(url, { signal: controller.signal });
+    if (!res.ok) throw new Error(`Sitemap inaccessible : ${url}`);
+    return await res.text();
+  } catch (err) {
+    if (err.name === "AbortError") {
+      throw new Error(`Timeout sitemap : ${url}`);
+    }
+    throw err;
+  } finally {
+    clearTimeout(timeoutId);
+  }
 }
 
 async function extractUrlsFromSitemap(url) {
@@ -179,7 +191,7 @@ function generateNewFormatRow(product, imageIndex, isFirstImage) {
         case 'Requires shipping': row[header] = 'TRUE'; break;
         case 'Fulfillment service': row[header] = 'manual'; break;
         case 'Inventory tracker': row[header] = 'shopify'; break;
-        case 'Continue selling when out of stock': row[header] = 'DENY'; break;
+        case 'Continue selling when out of stock': row[header] = 'FALSE'; break;
         case 'Weight unit for display': row[header] = 'g'; break;
         case 'Gift card': row[header] = 'FALSE'; break;
         case 'Product image URL': row[header] = product.images[imageIndex]; break;
