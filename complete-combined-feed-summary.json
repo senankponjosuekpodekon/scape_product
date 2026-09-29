@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-06-11T01:58:28.736Z",
+  "total_rows": 5,
+  "gshandels_pool_products": {
+    "unique_products": 0,
+    "total_rows": 0,
+    "handles": []
+  },
+  "vanducheval_products": {
+    "unique_products": 5,
+    "total_rows": 5,
+    "handles": [
+      "van-fautras-oblic-3-2018",
+      "van-cheval-liberte-gold-3",
+      "fautras-provan-classic",
+      "fautras-jms-15-place",
+      "van-cheval-humbaur"
+    ]
+  },
+  "image_analysis": {
+    "total_images": 5,
+    "main_product_rows": 5,
+    "image_only_rows": 0
+  },
+  "products_by_type": {
+    "Van équestre": 5
+  }
+}

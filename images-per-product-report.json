@@ -1,0 +1,533 @@
+{
+  "analyzed_at": "2026-06-11T01:41:12.631Z",
+  "file": "deutsche-boutique-shopify-feed-updated-v4.csv",
+  "summary": {
+    "total_products": 83,
+    "products_with_images": 6,
+    "products_without_images": 77,
+    "total_images": 101,
+    "average_images_per_product": 1.22
+  },
+  "by_category": {
+    "pools": {
+      "count": 5,
+      "with_images": 0,
+      "total_images": 0
+    },
+    "vans": {
+      "count": 5,
+      "with_images": 5,
+      "total_images": 100
+    },
+    "containers": {
+      "count": 0,
+      "with_images": 0,
+      "total_images": 0
+    },
+    "others": {
+      "count": 73,
+      "with_images": 1,
+      "total_images": 1
+    }
+  },
+  "products": [
+    {
+      "handle": "van-001",
+      "title": "Ifor Williams HB 506 - 2-Pferd-Van Premium",
+      "images_count": 20,
+      "has_main_image": true
+    },
+    {
+      "handle": "van-002",
+      "title": "Boeckmann Duo 2.0 - 2-Pferde-Luxusvan mit Alu-Fussboden",
+      "images_count": 20,
+      "has_main_image": true
+    },
+    {
+      "handle": "van-003",
+      "title": "Cheval Liberté Gold 3 - 3-Pferde-Van mit Wohnabteil",
+      "images_count": 20,
+      "has_main_image": true
+    },
+    {
+      "handle": "van-004",
+      "title": "Humbaur 2-Pferd-Van mit Schiebetuer - Kompakt und Praktisch",
+      "images_count": 20,
+      "has_main_image": true
+    },
+    {
+      "handle": "van-005",
+      "title": "Fautras Oblic 3 - 3-Pferde-Van mit seitlicher Beladung",
+      "images_count": 20,
+      "has_main_image": true
+    },
+    {
+      "handle": "\"\"</div>\"\"\"\"\"\"",
+      "title": "GSHandels",
+      "images_count": 1,
+      "has_main_image": false
+    },
+    {
+      "handle": "pool-001",
+      "title": "Container-Spa-Pool 3.0 x 2.5 m mit Whirlpool - Komplettset",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<h1>Container-Spa-Pool 3.0 x 2.5 m mit Whirlpool - Komplettset</h1>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<h2>Premium-Qualitaet fuer deutsche Gaerten</h2>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<ul>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<li>Wetterfest und winterfest</li>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<li>Einfache Selbstmontage</li>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<li>5 Jahre Herstellergarantie</li>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<li>TUEV-gepruefte Sicherheit</li>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<li>Kostenlose Lieferung nach DE/AT</li>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "</ul>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<h2>Technische Daten:</h2>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "\"\"<table border=\"\"\"\"\"\"\"\"0\"\"\"\"\"\"\"\" cellspacing=\"\"\"\"\"\"\"\"0\"\"\"\"\"\"\"\" cellpadding=\"\"\"\"\"\"\"\"5\"\"\"\"\"\"\"\">\"\"",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Material:</strong></td><td>Stahl-Kunststoff</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Farbe:</strong></td><td>Anthrazit</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Garantie:</strong></td><td>5 Jahre</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "</table>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<p><strong>Hochwertiger Container-Spa-Pool mit integriertem Whirlpool. Perfekt fuer Garten und Terrasse. Inklusive Heizung",
+      "title": "Filteranlage und Abdeckung. Einfache Installation",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<h2>Unser Service-Paket:</h2>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<li>Kostenlose Lieferung und Aufbau</li>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<li>TUEV-Zertifizierung</li>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<li>Deutscher Kundenservice</li>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<li>30 Tage Rueckgaberecht</li>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "pool-002",
+      "title": "6.5 m x 2.5 m Polypropylen-Pool mit 4 m Panoramafenster",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<h1>6.5 m x 2.5 m Polypropylen-Pool mit 4 m Panoramafenster</h1>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Material:</strong></td><td>Polypropylen</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Farbe:</strong></td><td>Blau</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<p><strong>Grosser Polypropylen-Pool mit beeindruckendem 4-Meter-Panoramafenster. Langlebiges Material",
+      "title": "einfache Wartung. Ideal fuer Schwimmer und Entspannung. Komplett mit Pumpe und Filter.</strong></p>",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "pool-003",
+      "title": "Containerbecken 6.2 x 2.5 m mit Jet Swim Gegenstromanlage",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<h1>Containerbecken 6.2 x 2.5 m mit Jet Swim Gegenstromanlage</h1>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Material:</strong></td><td>Stahl-Fiberglas</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Farbe:</strong></td><td>Grau</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<p><strong>Container-Schwimmbad mit leistungsstarker Jet Swim Gegenstromanlage. Perfekt fuer Fitness-Schwimmen auf kleinem Raum. Robuste Bauweise",
+      "title": "wetterfest und langlebig.</strong></p>",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "pool-004",
+      "title": "Containerpool 6.11 x 2.5 m mit Waermepumpe - Premium-Paket",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<h1>Containerpool 6.11 x 2.5 m mit Waermepumpe - Premium-Paket</h1>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Material:</strong></td><td>Stahl-Isolierung</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Farbe:</strong></td><td>Weiss</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<p><strong>Luxurioeser Containerpool mit effizienter Waermepumpe fuer ganzjaehrige Nutzung. Premium-Ausstattung mit LED-Beleuchtung",
+      "title": "automatischer Chlorung und Abdeckrollo.</strong></p>",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "pool-005",
+      "title": "Mobiler Mini-Schwimmbad-Container 5.25 x 2.55 x 1.26 m",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<h1>Mobiler Mini-Schwimmbad-Container 5.25 x 2.55 x 1.26 m</h1>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Material:</strong></td><td>Kunststoff-Aluminium</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<p><strong>Kompakter mobiler Pool fuer kleine Gaerten und Terrassen. Einfacher Aufbau",
+      "title": "winterfest. Perfekt fuer Erholung und leichten Wassersport. Geringer Platzbedarf",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<h1>Ifor Williams HB 506 - 2-Pferd-Van Premium</h1>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<h2>Premium-Pferdetransport fuer deutsche Pferdebesitzer</h2>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<li>Pferdefreundliches Design</li>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<li>Deutsche Markenqualitaet</li>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<li>Voll ausgestattet</li>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<li>Sofort einsatzbereit</li>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<h2>Fahrzeugdaten:</h2>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Marke:</strong></td><td>Ifor Williams</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Material:</strong></td><td>Stahl-verzinkt</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Farbe:</strong></td><td>Silber</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Zustand:</strong></td><td>Geprueft und bereit</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<p><strong>Hochwertiger Ifor Williams HB 506 Van fuer 2 Pferde. Spitzenqualitaet aus Wales",
+      "title": "extrem robust und langlebig. Ausgestattet mit Lueftungssystem",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<h2>Unser Kauf-Paket:</h2>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<li>TUEV-Pruefung und Ueberfuehrung</li>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<li>3 Monate Gewaehrleistung</li>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<li>Finanzierung moeglich</li>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<li>Lieferung ganz Deutschland</li>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<li>24/7 Pannenhilfe</li>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<h1>Boeckmann Duo 2.0 - 2-Pferde-Luxusvan mit Alu-Fussboden</h1>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Marke:</strong></td><td>Boeckmann</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Material:</strong></td><td>Stahl-Aluminium</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Farbe:</strong></td><td>Weiss-Blau</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<p><strong>Luxurioeser Boeckmann Duo 2.0 fuer 2 Pferde. Mit Aluminium-Fussboden",
+      "title": "Premium-Sattelkammer und modernster Lueftung. Deutsche Markenqualitaet",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<h1>Cheval Liberté Gold 3 - 3-Pferde-Van mit Wohnabteil</h1>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Marke:</strong></td><td>Cheval Liberté</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Material:</strong></td><td>Stahl-Holz</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Farbe:</strong></td><td>Beige</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<p><strong>Cheval Liberté Gold 3 fuer 3 Pferde mit integriertem Wohnabteil. Franzoesische Premium-Marke bekannt fuer Komfort und Sicherheit. Komplett ausgestattet mit Kueche",
+      "title": "Schlafplatz und moderner Technik.</strong></p>",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<h1>Humbaur 2-Pferd-Van mit Schiebetuer - Kompakt und Praktisch</h1>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Marke:</strong></td><td>Humbaur</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Material:</strong></td><td>Stahl</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Farbe:</strong></td><td>Rot</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<p><strong>Kompakter Humbaur Van fuer 2 Pferde mit praktischer Schiebetuer. Ideal fuer enge Verhaeltnisse und haeufigen Gebrauch. Deutsche Qualitaet",
+      "title": "sehr wendig und wirtschaftlich. Jahrgang 2019",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<h1>Fautras Oblic 3 - 3-Pferde-Van mit seitlicher Beladung</h1>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<tr><td><strong>Marke:</strong></td><td>Fautras</td></tr>",
+      "title": "",
+      "images_count": 0,
+      "has_main_image": false
+    },
+    {
+      "handle": "<p><strong>Innovativer Fautras Oblic 3 fuer 3 Pferde mit seitlicher Belademoeglichkeit. Franzoesische Handwerkskunst",
+      "title": "extrem pferdefreundlich durch seitliche Einstiegsmoeglichkeit. Reduziert Stress fuer Pferde.</strong></p>",
+      "images_count": 0,
+      "has_main_image": false
+    }
+  ]
+}

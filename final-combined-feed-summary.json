@@ -1,0 +1,88 @@
+{
+  "generated_at": "2026-06-11T01:56:09.476Z",
+  "total_products": 10,
+  "pool_products": 5,
+  "vanducheval_products": 5,
+  "products": [
+    {
+      "handle": "pool-001",
+      "title": "Container-Spa-Pool 3.0 x 2.5 m mit Whirlpool - Komplettset",
+      "vendor": "GSHandels",
+      "type": "Container Pool",
+      "price": "8999.00",
+      "category": "Pools & Spas"
+    },
+    {
+      "handle": "pool-002",
+      "title": "6.5 m x 2.5 m Polypropylen-Pool mit 4 m Panoramafenster",
+      "vendor": "GSHandels",
+      "type": "Pool",
+      "price": "12999.00",
+      "category": "Pools & Spas"
+    },
+    {
+      "handle": "pool-003",
+      "title": "Containerbecken 6.2 x 2.5 m mit Jet Swim Gegenstromanlage",
+      "vendor": "GSHandels",
+      "type": "Container Pool",
+      "price": "15999.00",
+      "category": "Pools & Spas"
+    },
+    {
+      "handle": "pool-004",
+      "title": "Luxus-Poolcontainer 8.0 x 3.0 m mit Überdachung",
+      "vendor": "GSHandels",
+      "type": "Container Pool",
+      "price": "24999.00",
+      "category": "Pools & Spas"
+    },
+    {
+      "handle": "pool-005",
+      "title": "Kompakt-Pool 4.0 x 2.0 m für kleine Gärten",
+      "vendor": "GSHandels",
+      "type": "Pool",
+      "price": "6999.00",
+      "category": "Pools & Spas"
+    },
+    {
+      "handle": "van-fautras-oblic-3-2018",
+      "title": "Van Fautras Oblic 3 2018",
+      "vendor": "Fautras",
+      "type": "Van équestre",
+      "price": "14800.00",
+      "category": "Trailers & Vehicle Parts"
+    },
+    {
+      "handle": "van-cheval-liberte-gold-3",
+      "title": "VAN CHEVAL LIBERTE GOLD 3",
+      "vendor": "VanDuCheval",
+      "type": "Van équestre",
+      "price": "7290.00",
+      "category": "Trailers & Vehicle Parts"
+    },
+    {
+      "handle": "fautras-provan-classic",
+      "title": "FAUTRAS PROVAN CLASSIC",
+      "vendor": "Fautras",
+      "type": "Van équestre",
+      "price": "10810.00",
+      "category": "Trailers & Vehicle Parts"
+    },
+    {
+      "handle": "fautras-jms-15-place",
+      "title": "FAUTRAS JMS (1,5 PLACE)",
+      "vendor": "Fautras",
+      "type": "Van équestre",
+      "price": "6200.00",
+      "category": "Trailers & Vehicle Parts"
+    },
+    {
+      "handle": "van-cheval-humbaur",
+      "title": "VAN Cheval Humbaur",
+      "vendor": "Humbaur",
+      "type": "Van équestre",
+      "price": "6000.00",
+      "category": "Trailers & Vehicle Parts"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "fixed_at": "2026-06-11T01:36:49.002Z",
+  "original_rows": 178,
+  "fixed_prices": 178,
+  "price_column_index": 15,
+  "compare_price_column_index": 16,
+  "output_file": "deutsche-boutique-shopify-feed-fixed.csv"
+}

@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-05-19T23:17:29.834Z",
+  "rows": 11,
+  "issue_count": 1,
+  "issues": [
+    {
+      "row": 6,
+      "id": "eccity-anti-tilting-option",
+      "field": "image_link",
+      "issue": "missing_required"
+    }
+  ]
+}

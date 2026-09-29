@@ -118,6 +118,7 @@ async function normalize(p) {
 }
 
 function googleCategory(p) {
+  if (p.googleCategory) return p.googleCategory;
   const t = `${p.categories.join(' ')} ${p.title}`.toLowerCase();
   if (/bois|granul|pellet|briquette|bûche|buche/.test(t) && !/po[eê]le/.test(t)) return 'Home & Garden > Fireplace & Wood Stove Accessories > Firewood & Fuel';
   if (/po[eê]le|insert|cheminée|foyer/.test(t)) return 'Home & Garden > Fireplaces';
@@ -224,7 +225,11 @@ async function main() {
   console.log(`💾 ${JSON_OUT}\n💾 ${SHOPIFY_CSV}\n💾 ${GMC_CSV}`);
 }
 
-main().catch(err => {
-  console.error(err);
-  process.exit(1);
-});
+export { googleCategory, buildShopifyCsv, buildGmcCsv };
+
+if (import.meta.url === `file://${process.argv[1]}`) {
+  main().catch(err => {
+    console.error(err);
+    process.exit(1);
+  });
+}

@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-06-11T02:09:07.668Z",
+  "original_rows": 272,
+  "main_products_only": 7,
+  "final_products": 7,
+  "image_removal": {
+    "images_removed": 265,
+    "reason": "Shopify upload failure - URLs not accessible"
+  },
+  "products_by_vendor": {
+    "Fautras": 4,
+    "VanDuCheval": 2,
+    "Humbaur": 1
+  },
+  "products_by_type": {
+    "Van équestre": 7
+  }
+}

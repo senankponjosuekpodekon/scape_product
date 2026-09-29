@@ -1,0 +1,101 @@
+{
+  "updated_at": "2026-06-11T01:43:00.332Z",
+  "strategy": "German Pool Images - Thematic URLs",
+  "pools_updated": 5,
+  "total_images_added": 50,
+  "average_images_per_pool": "10.0",
+  "pool_configurations": [
+    {
+      "pool_id": "pool-001",
+      "title": "Container-Spa-Pool 3.0 x 2.5 m mit Whirlpool - Komplettset",
+      "images_count": 10,
+      "base_image": "container-spa-pool-3x2-5"
+    },
+    {
+      "pool_id": "pool-002",
+      "title": "6.5 m x 2.5 m Polypropylen-Pool mit 4 m Panoramafenster",
+      "images_count": 10,
+      "base_image": "polypropylen-pool-6-5x2-5"
+    },
+    {
+      "pool_id": "pool-003",
+      "title": "Containerbecken 6.2 x 2.5 m mit Jet Swim Gegenstromanlage",
+      "images_count": 10,
+      "base_image": "containerbecken-jet-swim"
+    },
+    {
+      "pool_id": "pool-004",
+      "title": "Containerpool 6.11 x 2.5 m mit Waermepumpe - Premium-Paket",
+      "images_count": 10,
+      "base_image": "containerpool-waermepumpe"
+    },
+    {
+      "pool_id": "pool-005",
+      "title": "Mobiler Mini-Schwimmbad-Container 5.25 x 2.55 x 1.26 m",
+      "images_count": 10,
+      "base_image": "mini-schwimmbad-container"
+    }
+  ],
+  "image_urls": {
+    "pool-001": [
+      "https://gshandels.com/wp-content/uploads/2026/02/container-spa-pool-3x2-5.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/container-spa-pool-3x2-5-interior.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/container-spa-pool-3x2-5-whirlpool.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/container-spa-pool-3x2-5-night.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/container-spa-pool-3x2-5-detail.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/container-spa-pool-3x2-5-installation.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/container-spa-pool-3x2-5-technical.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/container-spa-pool-3x2-5-lifestyle.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/container-spa-pool-3x2-5-garden.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/container-spa-pool-3x2-5-winter.jpg"
+    ],
+    "pool-002": [
+      "https://gshandels.com/wp-content/uploads/2026/02/polypropylen-pool-6-5x2-5.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/polypropylen-pool-6-5x2-5-panorama.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/polypropylen-pool-6-5x2-5-exterior.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/polypropylen-pool-6-5x2-5-interior.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/polypropylen-pool-6-5x2-5-day.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/polypropylen-pool-6-5x2-5-night.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/polypropylen-pool-6-5x2-5-detail.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/polypropylen-pool-6-5x2-5-technical.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/polypropylen-pool-6-5x2-5-lifestyle.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/polypropylen-pool-6-5x2-5-garden.jpg"
+    ],
+    "pool-003": [
+      "https://gshandels.com/wp-content/uploads/2026/02/containerbecken-jet-swim.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/containerbecken-jet-swim-jet.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/containerbecken-jet-swim-swimming.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/containerbecken-jet-swim-exterior.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/containerbecken-jet-swim-interior.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/containerbecken-jet-swim-control.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/containerbecken-jet-swim-detail.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/containerbecken-jet-swim-technical.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/containerbecken-jet-swim-fitness.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/containerbecken-jet-swim-lifestyle.jpg"
+    ],
+    "pool-004": [
+      "https://gshandels.com/wp-content/uploads/2026/02/containerpool-waermepumpe.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/containerpool-waermepumpe-heat.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/containerpool-waermepumpe-premium.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/containerpool-waermepumpe-exterior.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/containerpool-waermepumpe-interior.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/containerpool-waermepumpe-winter.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/containerpool-waermepumpe-led.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/containerpool-waermepumpe-detail.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/containerpool-waermepumpe-technical.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/containerpool-waermepumpe-lifestyle.jpg"
+    ],
+    "pool-005": [
+      "https://gshandels.com/wp-content/uploads/2026/02/mini-schwimmbad-container.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/mini-schwimmbad-container-compact.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/mini-schwimmbad-container-mobile.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/mini-schwimmbad-container-terrace.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/mini-schwimmbad-container-garden.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/mini-schwimmbad-container-exterior.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/mini-schwimmbad-container-interior.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/mini-schwimmbad-container-detail.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/mini-schwimmbad-container-setup.jpg",
+      "https://gshandels.com/wp-content/uploads/2026/02/mini-schwimmbad-container-lifestyle.jpg"
+    ]
+  }
+}

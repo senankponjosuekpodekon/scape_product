@@ -1,0 +1,4016 @@
+[
+  {
+    "type": "simple",
+    "sku": "valises-givi-rider-3r",
+    "name": "Valises Givi Rider Série 3R",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "selle-monoplace-silence-s02-hs-et-ls",
+    "name": "Selle Monoplace Silence S02 HS et LS",
+    "reason": "excluded_category:Accessori > Selle"
+  },
+  {
+    "type": "simple",
+    "sku": "selle-sur-ron",
+    "name": "Selle Sur-Ron",
+    "reason": "excluded_category:Accessori > Selle"
+  },
+  {
+    "type": "simple",
+    "sku": "kitautoecopinkme",
+    "name": "Kit Auto-Ecole Pink Me",
+    "reason": "excluded_category:Accessori > Kit"
+  },
+  {
+    "type": "simple",
+    "sku": "top-case-coocase-wizard-basic-v36",
+    "name": "Top Case Coocase Wizard Basic V36",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "chaine-sur-ron-pour-couronne-58-dents",
+    "name": "Chaine Sur-Ron pour couronne 58 dents",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "compteur-off-road-sur-ron",
+    "name": "Compteur Off-Road pour Sur-Ron",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "courroie-transmission-sur-ron",
+    "name": "Courroie de transmission Sur-Ron",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "pneu-cross-uride-p262-sur-ron",
+    "name": "Pneu Cross URIDE P262 pour Sur-Ron",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-couronne-sur-ron",
+    "name": "Couronne Sur-Ron",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-disque-de-frein-sur-ron",
+    "name": "Disque de frein Sur-Ron",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "plaquettes-de-frein-sur-ron-sur-ron",
+    "name": "Plaquettes de frein Sur-Ron - sur-ron",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "chargeur-sur-ron",
+    "name": "Chargeur Sur-Ron",
+    "reason": "excluded_category:Accessori > Batterie > Chargeur"
+  },
+  {
+    "type": "simple",
+    "sku": "adaptateur-de-charge-y-super-soco",
+    "name": "Adaptateur de charge Y pour Super Soco TC, TS",
+    "reason": "excluded_category:Accessori > Batterie > Chargeur"
+  },
+  {
+    "type": "simple",
+    "sku": "top-case-peefy-28-litres",
+    "name": "Top Case Peefy 28 litres",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-kit-deco-off-bee-sur-ron",
+    "name": "Kit Deco OFF-BEE Sur-Ron",
+    "reason": "excluded_category:Accessori > Kit > Kit Décoration"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-kit-deco-super-star-sur-ron",
+    "name": "Kit Deco Super Star Sur-Ron",
+    "reason": "excluded_category:Accessori > Kit > Kit Décoration"
+  },
+  {
+    "type": "simple",
+    "sku": "batterie-pink-mobility-pink-me",
+    "name": "Batterie Pink Mobility Pink Me",
+    "reason": "excluded_category:Accessori > Batterie"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-support-smartphone-motos-et-scooters",
+    "name": "Support smartphone motos et scooters",
+    "reason": "excluded_category:Accessori > Support téléphone"
+  },
+  {
+    "type": "simple",
+    "sku": "chargeur-murtas-tx-72-volts-22-ah",
+    "name": "CHARGEUR RAPIDE MURTAS TX 72 VOLTS 22 AH",
+    "reason": "excluded_category:Accessori > Batterie > Chargeur"
+  },
+  {
+    "type": "simple",
+    "sku": "roue-arriere-16-pour-sting-pro-5500",
+    "name": "Roue arrière 16\" pour Sting Pro 5500",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "batterie-sur-ron",
+    "name": "Batterie Sur-Ron",
+    "reason": "excluded_category:Accessori > Batterie"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-kit-deco-talaria-sting",
+    "name": "Kit Deco Talaria Sting",
+    "reason": "excluded_category:Accessori > Kit > Kit Décoration"
+  },
+  {
+    "type": "simple",
+    "sku": "chargeur-murtas-tx-72-volts-12-ah",
+    "name": "CHARGEUR MURTAS TX 72 VOLTS 12 AH",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "suptopcs01",
+    "name": "Support Top Case Officiel Silence S01",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "adapteur-universel-quadlock",
+    "name": "Adapteur universel QuadLock",
+    "reason": "excluded_category:Accessori > Support téléphone"
+  },
+  {
+    "type": "simple",
+    "sku": "reducteur-de-vibration-quadlock",
+    "name": "Réducteur de vibration QuadLock",
+    "reason": "excluded_category:Accessori > Support téléphone"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-support-quadlock",
+    "name": "Support QuadLock",
+    "reason": "excluded_category:Accessori > Support téléphone"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-housse-protection-tucano",
+    "name": "Housse de protection Tucano",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-dosseret-passager-silence-s01",
+    "name": "Dosseret passager Silence S01",
+    "reason": "excluded_category:Accessori > Dosseret Passager"
+  },
+  {
+    "type": "simple",
+    "sku": "chambre-a-air-renforcee-michelin-sur-ron",
+    "name": "Chambre à air renforcée Michelin pour Sur-Ron",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-couvercle-top-case-shad-sh39",
+    "name": "Couvercle pour Top case Shad SH39",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-couvercle-top-case-shad-sh29",
+    "name": "Couvercle pour Top Case Shad SH29",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "723",
+    "name": "Kit couronne 58 dents pour moto Sur-Ron",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "kit-pedalier-velo-pour-moto-sur-ron",
+    "name": "Kit pédalier vélo pour moto Sur-Ron",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "bulles01",
+    "name": "Pare-brise Silence S01",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "surtablier-de-protection-pilote-tucano-term-jfj3tk",
+    "name": "SURTABLIER DE PROTECTION PILOTE TUCANO TERMOSCUD R194",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "support-de-top-case-zeeho-ae8-s",
+    "name": "Support de Top Case Zeeho AE8 S+",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-pink-fly",
+    "name": "Support Top case Pink Fly",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "adaptateur-type-2-vers-prise-domestique-16a-154sxp",
+    "name": "Adaptateur Type 2 vers prise domestique 16A",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "repose-pieds-kke-talaria",
+    "name": "REPOSE PIEDS KKE Talaria",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-top-case-ebroh-veracruz-5k",
+    "name": "Top Case Ebroh Veracruz 5K",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-top-case-spuma-li",
+    "name": "Top Case Ebroh Spuma Li",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "chargeur-masai-vision-3k",
+    "name": "Chargeur Masai Vision 3K",
+    "reason": "excluded_category:Accessori > Batterie > Chargeur"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-masai-vision",
+    "name": "Support Top Case Masai Vision",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "pare-brise-rider-3r",
+    "name": "Pare-Brise Rider série 3R",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-sunra-robo-s",
+    "name": "Support Top Case Sunra Robo S",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "chargeur-rider-serie-3r",
+    "name": "Chargeur Rider Série 3R",
+    "reason": "excluded_category:Accessori > Batterie > Chargeur"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-shad-ebroh-bravo",
+    "name": "Support Top Case Ebroh Bravo",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-couvercle-top-case-kumpan-54",
+    "name": "Couvercle pour Top Case Kumpan 54",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "top-case-kumpan-54",
+    "name": "Top Case Kumpan 54",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "chargeur-red-electric",
+    "name": "Chargeur Red Electric Ultra-rapide HSC",
+    "reason": "excluded_category:Accessori > Batterie > Chargeur"
+  },
+  {
+    "type": "simple",
+    "sku": "selle-origine-super-soco-tc-max",
+    "name": "Selle Origine Super Soco TC MAX",
+    "reason": "excluded_category:Accessori > Selle"
+  },
+  {
+    "type": "simple",
+    "sku": "tablier-de-protection-red-electric",
+    "name": "Tablier de protection Red Electric",
+    "reason": "excluded_category:Abbigliamento e accessori > Tablier protection"
+  },
+  {
+    "type": "simple",
+    "sku": "chargeur-kumpan-54",
+    "name": "Chargeur Kumpan 54",
+    "reason": "excluded_category:Accessori > Batterie > Chargeur"
+  },
+  {
+    "type": "simple",
+    "sku": "batterie-kumpan-54",
+    "name": "Batterie Kumpan 54",
+    "reason": "excluded_category:Accessori > Batterie"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-rider-ng",
+    "name": "Support Top Case Rider NG",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-barres-de-renforts-ebroh-bravo-gle",
+    "name": "Barres de renforts Ebroh Bravo GLE",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "fourche-talaria-factory",
+    "name": "Fourche Talaria Factory",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "top-case-tx-tx-evo-avec-son-support",
+    "name": "Top Case 65 L TX / TX-EVO avec son support",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "kit-valises-laterales-murtas-tx-txevo",
+    "name": "Kit valises latérales Murtas TX / TX-EVO",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "panier-avant-pink-mobility-pink-up",
+    "name": "Panier Avant Pink Mobility Pink Up",
+    "reason": "excluded_category:Accessori > Porte-Bagages"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-shad-pour-piaggio",
+    "name": "Support top case Shad pour Piaggio",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-shad-ray-7-7",
+    "name": "Support Top case et Top Case Shad SH33 Ray 7.7",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-shad-silence-s01",
+    "name": "Support Top Case Shad Silence S01",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-batterie-super-soco-tc-ts-tsx",
+    "name": "Batterie Super Soco TC, TS et TSX",
+    "reason": "excluded_category:Accessori > Batterie"
+  },
+  {
+    "type": "simple",
+    "sku": "dosseret-passager-pink-fly",
+    "name": "Dosseret passager Pink Fly",
+    "reason": "excluded_category:Accessori > Dosseret Passager"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-top-case-moto-coocase-x3-aluminium-series-60-litres",
+    "name": "TOP CASE MOTO COOCASE X3 ALUMINIUM SERIES 60 LITRES",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-support-smartphone-universel",
+    "name": "Support smartphone universel",
+    "reason": "excluded_category:Accessori > Support téléphone"
+  },
+  {
+    "type": "simple",
+    "sku": "top-case-85-litres",
+    "name": "Top Case 85 litres",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-support-top-case-segway",
+    "name": "Support Top Case Shad pour Segway",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-doubleur-de-charge-segway",
+    "name": "Câble doubleur de charge Segway",
+    "reason": "excluded_category:Accessori > Batterie > Chargeur"
+  },
+  {
+    "type": "simple",
+    "sku": "pare-brise-segway",
+    "name": "Pare-brise Isotta pour Segway",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "pare-brise-pink-up",
+    "name": "Pare-brise haut pour Pink Mobility Pink Up",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "renfort-metallique-de-tablier-pour-pink-sty-r4emki",
+    "name": "Renfort métallique de tablier pour Pink Style et Pink Style Plus",
+    "reason": "excluded_category:Accessori > Kit"
+  },
+  {
+    "type": "simple",
+    "sku": "battpink",
+    "name": "Batterie Pink Mobility Pink Style",
+    "reason": "excluded_category:Accessori > Batterie"
+  },
+  {
+    "type": "simple",
+    "sku": "batterie-yadea-g5",
+    "name": "Batterie Yadea G5",
+    "reason": "excluded_category:Accessori > Batterie"
+  },
+  {
+    "type": "simple",
+    "sku": "batterie-masai-vision-3000w",
+    "name": "Batterie Masai Vision 3000W",
+    "reason": "excluded_category:Accessori > Batterie"
+  },
+  {
+    "type": "simple",
+    "sku": "batterie-red-electric",
+    "name": "Batterie Red Electric",
+    "reason": "excluded_category:Accessori > Batterie"
+  },
+  {
+    "type": "simple",
+    "sku": "bat2tw2018",
+    "name": "Batterie 2Twenty Roma 2018",
+    "reason": "excluded_category:Accessori > Batterie"
+  },
+  {
+    "type": "simple",
+    "sku": "batterie-super-soco-tc-max",
+    "name": "Batterie Super Soco TC MAX",
+    "reason": "excluded_category:Accessori > Batterie"
+  },
+  {
+    "type": "simple",
+    "sku": "battcux",
+    "name": "Batterie Super Soco CU-X",
+    "reason": "excluded_category:Accessori > Batterie"
+  },
+  {
+    "type": "simple",
+    "sku": "battroma2020",
+    "name": "Batterie 2twenty Roma 2020",
+    "reason": "excluded_category:Accessori > Batterie"
+  },
+  {
+    "type": "simple",
+    "sku": "batterie-lvneng-s5-delivery",
+    "name": "Batterie LVNENG S5 Delivery",
+    "reason": "excluded_category:Accessori > Batterie"
+  },
+  {
+    "type": "simple",
+    "sku": "chargeur-yadea-g5",
+    "name": "Chargeur Yadea G5",
+    "reason": "excluded_category:Accessori > Batterie > Chargeur"
+  },
+  {
+    "type": "simple",
+    "sku": "chargeur-domicile-ator-e-xdv",
+    "name": "Chargeur à domicile ATOR E-XDV",
+    "reason": "excluded_category:Accessori > Batterie > Chargeur"
+  },
+  {
+    "type": "simple",
+    "sku": "chargeur-pink-style",
+    "name": "Chargeur Pink Style",
+    "reason": "excluded_category:Accessori > Batterie > Chargeur"
+  },
+  {
+    "type": "simple",
+    "sku": "chargeur-masai-vision-5k",
+    "name": "Chargeur Masai Vision 5K",
+    "reason": "excluded_category:Accessori > Batterie > Chargeur"
+  },
+  {
+    "type": "simple",
+    "sku": "chargeur-sunra-miku-super",
+    "name": "Chargeur Sunra Miku Super",
+    "reason": "excluded_category:Accessori > Batterie > Chargeur"
+  },
+  {
+    "type": "simple",
+    "sku": "dosseret-passager-niu-mqi-gt",
+    "name": "Dosseret passager Niu MQi GT",
+    "reason": "excluded_category:Accessori > Dosseret Passager"
+  },
+  {
+    "type": "simple",
+    "sku": "parebriseeccityxl",
+    "name": "Pare-brise Eccity Model 3",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "pareisottacpx",
+    "name": "Pare-brise Isotta Super Soco CPX",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "pareyadeac1s",
+    "name": "Pare-brise Yadea C1S / C1S Pro",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "pareyadeag5",
+    "name": "Pare-brise Yadea G5",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "pare-brise-horwin-ek1-ek3",
+    "name": "Pare-brise Horwin EK1/EK3",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "pare-brise-kumpan-54",
+    "name": "Pare-brise Kumpan 54",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "ps027",
+    "name": "Pare-brise Rider 3000W et 5000W",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "parebrisesilence",
+    "name": "Pare-Brise Silence S02 LS et S02 HS",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "pare2twenty-1",
+    "name": "Pare-Brise Askoll",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "bulle-haute-ray-7-7",
+    "name": "Bulle Haute Ray 7.7",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "pare-brise-lvneng-s5-delivery",
+    "name": "Pare-Brise LVNENG S5 Delivery",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "bullesupersocotc",
+    "name": "Bulle saute-vent Super Soco TC et TC Max",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "pare-brise-haut-ator-e-xdv",
+    "name": "Pare-brise haut ATOR E-XDV Incolore",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "pare-brise-sarkcyber-hc200",
+    "name": "Pare-brise Sarkcyber HC200",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "pare-brise-isotta-pour-pink-mobility-pink-style",
+    "name": "Pare-brise Isotta pour Pink Mobility Pink Style",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "kit-de-montage-pour-pare-brise-haut-pour-pi-igk19y",
+    "name": "Kit de montage pour pare-brise haut pour Pink Mobility Pink Style",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "pack-pare-brise-pink-style",
+    "name": "Pack Pare-brise Pink Style",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "pare-brise-haut-pour-pink-mobility-pink-me",
+    "name": "Pare-brise Isotta pour Pink Mobility Pink ME",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "kit-de-montage-pour-pare-brise-haut-pour-pi-1gwqot",
+    "name": "Kit de montage pour pare-brise haut pour Pink Mobility Pink ME",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-cargo-arriere-plateau-pour-ubco-rover-2x2",
+    "name": "Cargo arrière plateau pour UBCO ROVER 2X2",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-cargo-avant-plateau-pour-ubco-rover-2x2",
+    "name": "Cargo avant plateau pour UBCO ROVER 2X2",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "porte-bagages-arriere-niu-givi-pour-nqix",
+    "name": "Porte-bagages arrière NIU GIVI pour NQiX",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "porte-bagages-scooter-askoll-xkp",
+    "name": "Porte-bagages Scooter Askoll XKP",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-de-top-case-nerva-exe",
+    "name": "Support de Top Case NERVA EXE",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "support-de-top-case-sarkcyber-hc200",
+    "name": "Support de Top Case Sarkcyber HC200",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-de-top-case-tc-wanderer-tc-wanderer-pro",
+    "name": "Support de Top Case TC Wanderer / TC Wanderer Pro",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-de-top-case-ts-street-hunter-ts-str-hk3trq",
+    "name": "Support de Top Case TS Street Hunter / TS Street Hunter Pro",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-super-soco-cu-x-pro",
+    "name": "Support Top Case Super Soco CU-X Pro",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "supports-sacoche-sac-a-dos-pour-velo-ubco-rover",
+    "name": "Supports Sacoche Sac-à-dos pour Vélo UBCO Rover",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "platine-givi-standard-monokey-e251",
+    "name": "Platine Givi Standard Monokey E251",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-lvneng-s3",
+    "name": "Support Top Case LVNENG S3",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-lvneng-x1",
+    "name": "Support Top Case LVNENG X1",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-red-electric-serie-e",
+    "name": "Support Top Case Red Electric série E",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-rider-serie-3r",
+    "name": "Support Top Case Rider Série 3R",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-rider-3000w",
+    "name": "Support Top Case Rider 3000W",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-orcal-ecooter-e2-e2r",
+    "name": "Support top case Orcal Ecooter E2/E2R",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-ray-7-7",
+    "name": "Support Top case Ray 7.7",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-horwin-sk1-sk3",
+    "name": "Support Top case Horwin SK1/SK3",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-yadea-c-line",
+    "name": "Support Top case Yadea C-Line",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-yadea-c-umi",
+    "name": "Support Top case Yadea C-Umi",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-yadea-c1s-pro",
+    "name": "Support Top case Yadea C1S / C1S Pro",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-yadea-g5-pro",
+    "name": "Support Top case Yadea G5",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-yadea-g5-delivery",
+    "name": "Support Top case Yadea G5 Delivery",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-antivol-bloque-disque-cranns-connecte-avec-alarme-vd14-vd1",
+    "name": "Antivol Bloque Disque Cranns Connecté Avec Alarme - VD14 / VD10 - SRA",
+    "reason": "excluded_category:Accessori > Antivol"
+  },
+  {
+    "type": "simple",
+    "sku": "antivol-bloque-disque-cranns-connecte-avec--1ufx65",
+    "name": "Antivol Bloque Disque Cranns Connecté Avec Alarme - VP6",
+    "reason": "excluded_category:Accessori > Antivol"
+  },
+  {
+    "type": "simple",
+    "sku": "antivol-segway-bluetooth",
+    "name": "Antivol Segway Bluetooth",
+    "reason": "excluded_category:Accessori > Antivol"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-antivol-bloque-disque-oxford-alpha",
+    "name": "Antivol Bloque disque Oxford Alpha",
+    "reason": "excluded_category:Accessori > Antivol"
+  },
+  {
+    "type": "simple",
+    "sku": "antivol-chaine-et-mini-u-lock-force-lasso-sra",
+    "name": "Antivol Chaine et Mini U Lock Force Lasso SRA",
+    "reason": "excluded_category:Accessori > Antivol"
+  },
+  {
+    "type": "simple",
+    "sku": "antivol-mini-u-lock-force-securit-sra",
+    "name": "Antivol Mini U Lock Force Securit SRA",
+    "reason": "excluded_category:Accessori > Antivol"
+  },
+  {
+    "type": "simple",
+    "sku": "antivol-u-lock-force-protect-sra",
+    "name": "Antivol U Lock Force Protect SRA",
+    "reason": "excluded_category:Accessori > Antivol"
+  },
+  {
+    "type": "simple",
+    "sku": "sacoches-cavalieres-givi-pm-easy-bag",
+    "name": "Sacoches Cavalières Givi PM EASY BAG",
+    "reason": "excluded_category:Accessori > Bagagerie Souple"
+  },
+  {
+    "type": "simple",
+    "sku": "sacoche-de-guidon-givi",
+    "name": "Sacoche de guidon Givi",
+    "reason": "excluded_category:Accessori > Bagagerie Souple"
+  },
+  {
+    "type": "simple",
+    "sku": "sacoche-sac-a-dos-pour-cyclo-ubco-rover-2x2",
+    "name": "Sacoche sac-à-dos pour Cyclo UBCO Rover 2x2",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "cabas-central-noir-ubco-2x2",
+    "name": "Cabas central - Noir UBCO 2X2",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "rappel-securite-spirale-xena",
+    "name": "Rappel Sécurité Spirale Xena",
+    "reason": "excluded_category:Accessori > Antivol"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-sacoche-pink-mobility-pink-up",
+    "name": "Sacoche Pink Mobility Pink Up",
+    "reason": "excluded_category:Accessori > Bagagerie Souple"
+  },
+  {
+    "type": "simple",
+    "sku": "camcux",
+    "name": "Caméra embarquée Super Soco CU-X",
+    "reason": "excluded_category:Accessori > Caméra"
+  },
+  {
+    "type": "simple",
+    "sku": "kit-elargisseur-super-soco-cu-x-pro",
+    "name": "Kit élargisseur Super Soco CU-X Pro",
+    "reason": "excluded_category:Accessori > Kit"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-kit-carenages-elargissant-avant-super-soco-cu-x",
+    "name": "Kit carénages élargissant avant Super Soco CU-X",
+    "reason": "excluded_category:Accessori > Kit > Kit Carénages"
+  },
+  {
+    "type": "simple",
+    "sku": "porteavant2twenty",
+    "name": "Porte-Bagages Avant 2Twenty Roma",
+    "reason": "excluded_category:Accessori > Porte-Bagages"
+  },
+  {
+    "type": "simple",
+    "sku": "proteges-mains-pour-ator-e-xdv",
+    "name": "Protèges-mains pour ATOR E-XDV",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "sellesupersocotcrivets-1",
+    "name": "Selle Origine Super Soco TC",
+    "reason": "excluded_category:Accessori > Selle"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-2twenty-selle-premium",
+    "name": "Selle Premium 2Twenty Roma",
+    "reason": "excluded_category:Accessori > Selle"
+  },
+  {
+    "type": "simple",
+    "sku": "sellesupersocotcrivets",
+    "name": "Selle Rivets Super Soco TC et TC MAX",
+    "reason": "excluded_category:Accessori > Selle"
+  },
+  {
+    "type": "simple",
+    "sku": "sellesupersocotcmatela",
+    "name": "Selle Damier Super Soco TC et TC MAX",
+    "reason": "excluded_category:Accessori > Selle"
+  },
+  {
+    "type": "simple",
+    "sku": "support-smartphone-tucano-tablier",
+    "name": "Support Smartphone Tucano pour Tablier de protection",
+    "reason": "excluded_category:Accessori > Support téléphone"
+  },
+  {
+    "type": "simple",
+    "sku": "support-smartphone-givi-smart-clip-l",
+    "name": "Support Smartphone Givi Smart Clip - l",
+    "reason": "excluded_category:Accessori > Support téléphone"
+  },
+  {
+    "type": "simple",
+    "sku": "tapcux",
+    "name": "Tapis de marchepied Super Soco CU-X",
+    "reason": "excluded_category:Accessori > Tapis Marchepied"
+  },
+  {
+    "type": "simple",
+    "sku": "tapis-elargi-super-soco-cu-x-pro",
+    "name": "Tapis Élargi Super Soco CU-X Pro",
+    "reason": "excluded_category:Accessori > Tapis Marchepied"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-top-case-givi-trekker-outback-58",
+    "name": "Top Case Givi Trekker Outback 58",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-top-case-givi-trekker-outback-42",
+    "name": "Top Case Givi Trekker Outback 42",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "top-case-ator-e-xdv-60l-amovible",
+    "name": "Top Case ATOR E-XDV 60 litres amovible",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "top-case-ator-e-xdv-40l-amovible",
+    "name": "Top Case ATOR E-XDV 40 litres amovible",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "dosseret-top-case-60l-ator-e-xdv",
+    "name": "Dosseret Top Case 60 ATOR E-XDV",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-dosseret-pour-top-case-givi-trekker-outback-42",
+    "name": "Dosseret pour Top Case Givi Trekker Outback 42",
+    "reason": "excluded_category:Accessori > Bauletti > Dosseret"
+  },
+  {
+    "type": "simple",
+    "sku": "top-case-givi-rider-3r",
+    "name": "Top case Givi Rider Série 3R",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-top-case-amovible-rider-3000w-5000w",
+    "name": "Top Case Rider 3000W & 5000W Amovible",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-top-case-fixe-rider-5000w-3000w",
+    "name": "Top Case Rider 3000W & 5000W Fixe",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "topcasewanshine",
+    "name": "Top Case Wanshine 37 litres",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-lvneng-s4",
+    "name": "Support Top Case LVNENG S4",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-lvneng-s5",
+    "name": "Support Top Case LVNENG S5",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-rider-5000w",
+    "name": "Support Top Case Rider 5000W",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-lvneng-s6",
+    "name": "Support Top Case LVNENG S6",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "pare2twenty-1-1",
+    "name": "Support top-case Askoll NGS",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-kumpan-54",
+    "name": "Support Top Case Kumpan 54",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "top-case-weckio-28-litres",
+    "name": "Top Case Weckio 28 litres",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-ebroh-veracruz-5k",
+    "name": "Support Top Case Ebroh Veracruz 5K",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-horwin-ek1-ek3",
+    "name": "Support Top case Horwin EK1/EK3",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "portebagsupersocots",
+    "name": "Support Top Case Super Soco TS et TSX",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-support-top-case-orcal-e1-e1r",
+    "name": "Support Top Case Orcal E1 et E1-R",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-tc-tc-max",
+    "name": "Support Top Case Super Soco TC et TC MAX",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "suptopccux",
+    "name": "Support Top Case Super Soco CU-X",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "platine-top-case-cpx",
+    "name": "Platine Top Case Super Soco CPX",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-ebroh-strada-20th",
+    "name": "Support Top Case Ebroh Strada 20th",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-spuma-li",
+    "name": "Support Top Case Ebroh Spuma Li",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "tablier-tnt-universel-waterproof",
+    "name": "Tablier TNT Universel Waterproof",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "8026492106732-1",
+    "name": "Tablier de protection Tucano Termoscud ASKOLL ES",
+    "reason": "excluded_category:Abbigliamento e accessori > Tablier protection"
+  },
+  {
+    "type": "simple",
+    "sku": "ensemble-de-protection-de-levier-2x2",
+    "name": "Ensemble de protection de levier UBCO 2X2",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "top-case-givi-monokey-47-litres",
+    "name": "Top Case Givi Monokey 47 litres",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "top-case-givi-monolock-blade-tech",
+    "name": "Top Case Givi Monolock Blade Tech",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "top-case-lvneng-s5-delivery",
+    "name": "Top Case LVNENG S5 Delivery",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "top-case-ebroh-strada-20th",
+    "name": "Top Case Ebroh Strada 20th",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-bumpers-de-barres-renfort-ebroh-bravo",
+    "name": "Bumpers de Barres de renfort Ebroh Bravo",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "barres-de-renforts-ebroh-bravo-gls",
+    "name": "Barres de renforts Ebroh Bravo GLS",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "pack-pare-brise-pink-me",
+    "name": "Pack Pare-brise Pink Me",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-top-case-2twenty-roma",
+    "name": "Top case 2Twenty Roma",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "pack-securite",
+    "name": "Pack Sécurité",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "pack-adaptateur-2x2-pour-ubco-rover-2x2",
+    "name": "Pack adaptateur 2X2 pour UBCO Rover 2x2",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "monte-de-pneus-michelin-pour-ator-e-xdv",
+    "name": "Monte de pneus Michelin pour ATOR E-XDV",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "guidon-uride-318-x-780-rise-6",
+    "name": "GUIDON URIDE 31,8 x 780 RISE 6",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "sr-10240",
+    "name": "Contrôleur X pour Sur-Ron",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "tablier-de-protection-eccity-model-3",
+    "name": "Tablier de protection Eccity Model 3",
+    "reason": "excluded_category:Abbigliamento e accessori > Tablier protection"
+  },
+  {
+    "type": "simple",
+    "sku": "tablier-r017x-pour-silence-s01",
+    "name": "Tablier de protection Tucano Termoscud R017X",
+    "reason": "excluded_category:Abbigliamento e accessori > Tablier protection"
+  },
+  {
+    "type": "simple",
+    "sku": "r171x",
+    "name": "Tablier de protection Tucano Termoscud R171X",
+    "reason": "excluded_category:Abbigliamento e accessori > Tablier protection"
+  },
+  {
+    "type": "simple",
+    "sku": "8026492106732-2",
+    "name": "Tablier de protection Tucano Termoscud R170X",
+    "reason": "excluded_category:Abbigliamento e accessori > Tablier protection"
+  },
+  {
+    "type": "simple",
+    "sku": "8026492106732-2-1",
+    "name": "Tablier de protection Tucano Termoscud R225X",
+    "reason": "excluded_category:Abbigliamento e accessori > Tablier protection"
+  },
+  {
+    "type": "simple",
+    "sku": "antivol-bloque-disque-xena-xx10-alarme",
+    "name": "Antivol Bloque disque Xena Alarme XX10 SRA",
+    "reason": "excluded_category:Accessori > Antivol"
+  },
+  {
+    "type": "simple",
+    "sku": "10",
+    "name": "Antivol Bloque Disque XENA XX6",
+    "reason": "excluded_category:Accessori > Antivol"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-antivol-sxp",
+    "name": "Antivol SXP pour Tablier de protection",
+    "reason": "excluded_category:Accessori > Antivol"
+  },
+  {
+    "type": "simple",
+    "sku": "antivol-batterie-silence-s01-s02",
+    "name": "Antivol batterie Silence S01/S02",
+    "reason": "excluded_category:Accessori > Antivol"
+  },
+  {
+    "type": "simple",
+    "sku": "smarttag-pink-rechargeable",
+    "name": "SmartTag Pink Rechargeable",
+    "reason": "excluded_category:Accessori > Antivol"
+  },
+  {
+    "type": "simple",
+    "sku": "dosseret-top-case-shad-sh29",
+    "name": "Dosseret pour Top Case Shad SH29",
+    "reason": "excluded_category:Accessori > Bauletti > Dosseret"
+  },
+  {
+    "type": "simple",
+    "sku": "dosseret-top-case-sh39",
+    "name": "Dosseret pour Top Case Shad SH39",
+    "reason": "excluded_category:Accessori > Bauletti > Dosseret"
+  },
+  {
+    "type": "simple",
+    "sku": "dosseret-top-case-sh46",
+    "name": "Dosseret pour Top Case Shad SH46",
+    "reason": "excluded_category:Accessori > Bauletti > Dosseret"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-support-smartphone-shad",
+    "name": "Support Smartphone Shad",
+    "reason": "excluded_category:Accessori > Support téléphone"
+  },
+  {
+    "type": "simple",
+    "sku": "dosseret-top-case-coocase-x1",
+    "name": "Dosseret Top Case Coocase X1",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "caisson-de-livraison-252-litres",
+    "name": "Caisson de livraison 252 litres",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "chargeur-a-domicile-pink-blast",
+    "name": "Chargeur à domicile Pink Blast",
+    "reason": "excluded_category:Accessori > Batterie > Chargeur"
+  },
+  {
+    "type": "simple",
+    "sku": "ensemble-selle-biplace-s02-hs",
+    "name": "Ensemble Selle biplace S02 HS",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "silence-s05",
+    "name": "Silence S05",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "simple",
+    "sku": "can-am-pulse-2025",
+    "name": "Can-Am Pulse 2025",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "simple",
+    "sku": "tromox-mc10",
+    "name": "Tromox MC10",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "simple",
+    "sku": "talaria-dragon",
+    "name": "Talaria Dragon",
+    "reason": "excluded_category:Moto Électrique > Motocross"
+  },
+  {
+    "type": "simple",
+    "sku": "masai-rs1",
+    "name": "Masai RS1",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-naxeon-i-am-lite-pro",
+    "name": "NAXEON I AM LITE - PRO",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-urbet-gadiro",
+    "name": "Urbet Gadiro",
+    "reason": "excluded_category:Moto Électrique > Roadster"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-rider-sr8",
+    "name": "Rider SR8",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "simple",
+    "sku": "rider-sr6",
+    "name": "Rider SR6",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "simple",
+    "sku": "zero-motorcycles-zero-sr-f",
+    "name": "Zero Motorcycles Zero SR/F",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-tromox-ukko-s",
+    "name": "Tromox Ukko S",
+    "reason": "excluded_category:Moto Électrique > Roadster"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-horwin-ht3",
+    "name": "Horwin HT3",
+    "reason": "excluded_category:Moto Électrique > Motocross"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-horwin-ht5",
+    "name": "Horwin HT5",
+    "reason": "excluded_category:Moto Électrique > Motocross"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-tromox-mino",
+    "name": "Tromox Mino",
+    "reason": "excluded_category:Moto Électrique > Roadster"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-sunra-miku-max",
+    "name": "Sunra Miku Max",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-ebroh-bravo-cr",
+    "name": "Ebroh Bravo CR",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-sunra-miku-super",
+    "name": "Sunra Miku Super",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-super-soco-tc-wanderer",
+    "name": "Super Soco TC Wanderer",
+    "reason": "excluded_category:Moto Électrique > Cafe Racer"
+  },
+  {
+    "type": "simple",
+    "sku": "horcr6-1-noir-bleu",
+    "name": "Ebroh Bravo GLE - noir-bleu",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-ebroh-bravo-gls",
+    "name": "Ebroh Bravo GLS",
+    "reason": "excluded_category:Moto Électrique > Roadster"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-super-soco-ts-street-hunter",
+    "name": "Super Soco TS Street Hunter",
+    "reason": "excluded_category:Moto Électrique > Roadster"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-ebroh-bravo-gle-pro",
+    "name": "Ebroh Bravo GLE Pro",
+    "reason": "excluded_category:Moto Électrique > Roadster"
+  },
+  {
+    "type": "simple",
+    "sku": "masai-vision-3000w-60-km",
+    "name": "Masai Vision 3000 - 60-km",
+    "reason": "excluded_category:Moto Électrique > Supermotard"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-super-soco-tc",
+    "name": "Super Soco TC",
+    "reason": "excluded_category:Moto Électrique > Cafe Racer"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-cineco-city-slicker",
+    "name": "Cineco City Slicker",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-super-soco-ts-1200r",
+    "name": "Super Soco TS 1200R",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "simple",
+    "sku": "horwin-cr6-pro",
+    "name": "Horwin CR6 Pro",
+    "reason": "excluded_category:Moto Électrique > Cafe Racer"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-super-soco-tc-max",
+    "name": "Super Soco TC MAX",
+    "reason": "excluded_category:Moto Électrique > Cafe Racer"
+  },
+  {
+    "type": "simple",
+    "sku": "horcr6-noir",
+    "name": "Horwin CR6 - noir",
+    "reason": "excluded_category:Moto Électrique > Cafe Racer"
+  },
+  {
+    "type": "simple",
+    "sku": "rider-rs-3000",
+    "name": "Rider RS 3000",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-rider-rs-5000",
+    "name": "Rider RS 5000",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-super-soco-tsx",
+    "name": "Super Soco TSX",
+    "reason": "excluded_category:Moto Électrique > Roadster"
+  },
+  {
+    "type": "simple",
+    "sku": "tablier-de-protection-silence-01",
+    "name": "Tablier de protection Silence S01 R217X",
+    "reason": "excluded_category:Abbigliamento e accessori > Tablier protection"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-casque-jet-smk-gtj",
+    "name": "CASQUE JET SMK GTJ",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "simple",
+    "sku": "ktm-freeride-e-xc",
+    "name": "KTM Freeride E-XC",
+    "reason": "excluded_category:Moto Électrique > Motocross"
+  },
+  {
+    "type": "simple",
+    "sku": "top-case-niu-14l",
+    "name": "Top Case NIU petit format",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-niu-mqi-plus-sport",
+    "name": "Support Top Case Niu MQi+ Sport",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "top-case-niu-grand-format",
+    "name": "Top Case NIU Grand Format",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "dosseret-niu-mqi-plus-sport",
+    "name": "Dosseret passager NIU MQi+ Sport",
+    "reason": "excluded_category:Accessori > Dosseret Passager"
+  },
+  {
+    "type": "simple",
+    "sku": "dosseret-passager-niu-nqi",
+    "name": "Dosseret passager NIU série NQi",
+    "reason": "excluded_category:Accessori > Dosseret Passager"
+  },
+  {
+    "type": "simple",
+    "sku": "moniteurs-de-pression-des-pneus-niu",
+    "name": "Moniteurs de pression des pneus Niu",
+    "reason": "excluded_category:Accessori > Vie pratique"
+  },
+  {
+    "type": "simple",
+    "sku": "chargeur-niu-mqi-pro",
+    "name": "Chargeur Niu MQi Pro",
+    "reason": "excluded_category:Accessori > Batterie > Chargeur"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-niu-mqi-gt",
+    "name": "Support Top Case Niu MQi GT",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "porte-bagages-niu-uqi-sport",
+    "name": "Porte-bagages Niu UQi Sport",
+    "reason": "excluded_category:Accessori > Porte-Bagages"
+  },
+  {
+    "type": "simple",
+    "sku": "pare-brise-niu-mqi-gt",
+    "name": "Pare-brise Niu MQi GT / MQi GT Evo",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-niu-nqi",
+    "name": "Support Top Case NIU Serie NQi",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "tapis-de-marchepied-niu-mqi-plus-sport",
+    "name": "Tapis de marchepied NIU MQi+ Sport",
+    "reason": "excluded_category:Accessori > Tapis Marchepied"
+  },
+  {
+    "type": "simple",
+    "sku": "tapis-de-marchepied-niu-nqi",
+    "name": "Tapis de marchepied NIU série NQi",
+    "reason": "excluded_category:Accessori > Tapis Marchepied"
+  },
+  {
+    "type": "simple",
+    "sku": "pare-brise-niu-serie-nqi-grand-modele",
+    "name": "Pare-brise NIU série NQi grand modèle",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "panier-central-niu-uqi",
+    "name": "Panier central Niu série UQi",
+    "reason": "excluded_category:Accessori > Porte-Bagages"
+  },
+  {
+    "type": "simple",
+    "sku": "panier-avant-niu-uqi-sport",
+    "name": "Panier avant Niu UQi Sport",
+    "reason": "excluded_category:Accessori > Porte-Bagages"
+  },
+  {
+    "type": "simple",
+    "sku": "tablier-de-protection-officiel-niu-serie-nqi",
+    "name": "Tablier de protection officiel NIU série NQi",
+    "reason": "excluded_category:Abbigliamento e accessori > Tablier protection"
+  },
+  {
+    "type": "simple",
+    "sku": "pare-brise-niu-nqi",
+    "name": "Pare-brise Niu série NQi",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "support-smartphone-officiel-niu",
+    "name": "Support smartphone officiel NIU",
+    "reason": "excluded_category:Accessori > Support téléphone"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-niu-uqi-sport",
+    "name": "Support Top Case Niu UQi Sport",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "8026492106732",
+    "name": "Tablier de protection Tucano Termoscud R151X",
+    "reason": "excluded_category:Abbigliamento e accessori > Tablier protection"
+  },
+  {
+    "type": "simple",
+    "sku": "topcase35",
+    "name": "Top Case Shad SH39",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "top-case-shad-sh29",
+    "name": "Top Case Shad SH29",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "top-case-shad-sh46",
+    "name": "Top Case Shad SH46",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-pare-brise-isotta-niu-mqi-gt",
+    "name": "Pare-brise Isotta Niu MQi GT / MQi GT Evo",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "8430358664944",
+    "name": "Support Top Case Shad NIU série NQi",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "support-top-case-shad-niu-mqi-gt",
+    "name": "Support Top Case Shad Niu MQi GT",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "top-case-coocase-s30-30-litres",
+    "name": "Top Case Coocase S30 30 litres",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-tablier-de-protection-tucano-termoscud-r176",
+    "name": "Tablier de protection Tucano Termoscud R176",
+    "reason": "excluded_category:Abbigliamento e accessori > Tablier protection"
+  },
+  {
+    "type": "simple",
+    "sku": "tabscogen-1",
+    "name": "Tablier de protection Tucano Termoscud R013X",
+    "reason": "excluded_category:Abbigliamento e accessori > Tablier protection"
+  },
+  {
+    "type": "simple",
+    "sku": "antivol-u-chaine-nexus-top-block-104-120-sra",
+    "name": "Antivol U et chaine Top Block Nexus 104/120 SRA",
+    "reason": "excluded_category:Accessori > Antivol"
+  },
+  {
+    "type": "simple",
+    "sku": "antvolchsra",
+    "name": "Antivol Chaîne 1 mètre Top Block 1010 SRA",
+    "reason": "excluded_category:Accessori > Antivol"
+  },
+  {
+    "type": "simple",
+    "sku": "super-soco-on-r-et-off-r",
+    "name": "Super Soco ON-R et OFF-R",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "simple",
+    "sku": "40d00-d1000-br",
+    "name": "Selle Marron Pink Style et Pink Style Plus",
+    "reason": "excluded_category:Accessori > Selle"
+  },
+  {
+    "type": "simple",
+    "sku": "masai-vision-5k",
+    "name": "Masai Vision 5K",
+    "reason": "excluded_category:Moto Électrique > Supermotard"
+  },
+  {
+    "type": "simple",
+    "sku": "kit-super-motard-pour-moto-sur-ron",
+    "name": "Kit Supermotard pour moto Sur-Ron",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-niu-rqi-sport",
+    "name": "NIU RQi Sport",
+    "reason": "excluded_category:Moto Électrique > Roadster"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-niu-xqi3",
+    "name": "NIU XQi3",
+    "reason": "excluded_category:Moto Électrique > Motocross"
+  },
+  {
+    "type": "simple",
+    "sku": "f77-support-de-topcase-et-de-valises-laterales",
+    "name": "F77 Support de topcase et de valises latérales",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "top-case-silence-47-litres",
+    "name": "Top Case Silence 47 litres",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "antivol-chaine-top-block-1200-sra",
+    "name": "ANTIVOL CHAINE TOP BLOCK 1200 SRA",
+    "reason": "excluded_category:Accessori > Antivol"
+  },
+  {
+    "type": "simple",
+    "sku": "yadea-keeness-vfd",
+    "name": "Yadea Keeness VFD",
+    "reason": "excluded_category:Moto Électrique > Roadster"
+  },
+  {
+    "type": "simple",
+    "sku": "deflecteur-dair-pour-pink-fly",
+    "name": "Déflecteur d'air pour Pink Fly",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-top-case-coocase-x1",
+    "name": "Top Case Coocase X1",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-top-case-pink-mobility-pink-pop-et-pink-pop-plus",
+    "name": "Top case Pink Mobility Pink POP et POP PLUS",
+    "reason": "excluded_category:Accessori"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-top-case-support-pink-mobility-pink-style",
+    "name": "Top Case Pink Mobility Pink Style et Pink Style Plus",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-kit-offroad-pour-moto-sur-ron",
+    "name": "Kit OffRoad pour moto Sur-Ron",
+    "reason": "excluded_category:Accessori > Kit"
+  },
+  {
+    "type": "simple",
+    "sku": "pink-blast-bulle-haute-copie",
+    "name": "Pink Bulle pour Alrendo",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "stark-varg-ex",
+    "name": "Stark Varg EX",
+    "reason": "excluded_category:Moto Électrique > Motocross"
+  },
+  {
+    "type": "simple",
+    "sku": "chargeur-rapide-15-ah-pour-dimentro-dm-e1",
+    "name": "Chargeur rapide 15 Ah pour Dimentro DM-E1",
+    "reason": "excluded_category:Accessori > Batterie > Chargeur"
+  },
+  {
+    "type": "simple",
+    "sku": "chargeur-10-ah-pour-dimentro-dm-e1",
+    "name": "Chargeur 10 Ah pour Dimentro DM-E1",
+    "reason": "excluded_category:Accessori > Batterie > Chargeur"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-pare-brise-isotta-silence-s01",
+    "name": "Pare-brise Isotta Silence S01 / S01+",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "bulle-de-protection-pour-pink-pop",
+    "name": "Bulle de protection pour Pink Pop",
+    "reason": "excluded_category:Ricambi > Pare Brise"
+  },
+  {
+    "type": "simple",
+    "sku": "dosseret-top-case-ator-e-xdv",
+    "name": "Dosseret Top Case 40 litres ATOR E-XDV",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-top-case-avec-support-segway",
+    "name": "Top Case avec Support Segway",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "zero-motorcycles-zero-sr-s",
+    "name": "Zero Motorcycles Zero SR/S",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "simple",
+    "sku": "yadea-kemper",
+    "name": "Yadea Kemper",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-dosseret-passager-segway",
+    "name": "Dosseret passager Segway",
+    "reason": "excluded_category:Accessori > Dosseret Passager"
+  },
+  {
+    "type": "simple",
+    "sku": "support-smartphone-segway",
+    "name": "Support Smartphone Segway",
+    "reason": "excluded_category:Accessori > Support téléphone"
+  },
+  {
+    "type": "simple",
+    "sku": "cable-en-y-pink-mobility",
+    "name": "Câble en Y Pink Mobility",
+    "reason": "excluded_category:Accessori > Batterie > Chargeur"
+  },
+  {
+    "type": "simple",
+    "sku": "urbet-lora-s",
+    "name": "Urbet Lora S",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-vmoto-stash",
+    "name": "Vmoto Stash",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "simple",
+    "sku": "sacoche-pink-mobility-pink-style",
+    "name": "Sacoche Pink Mobility Pink Style",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-torrot-mx2",
+    "name": "Torrot MX2",
+    "reason": "excluded_category:Moto Électrique > Motocross > Enfant"
+  },
+  {
+    "type": "simple",
+    "sku": "torrot-trial-tr1",
+    "name": "Torrot Trial TR1",
+    "reason": "excluded_category:Moto Électrique > Motocross > Enfant"
+  },
+  {
+    "type": "simple",
+    "sku": "torrot-trial-tr2",
+    "name": "Torrot Trial TR2",
+    "reason": "excluded_category:Moto Électrique > Motocross > Enfant"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-peugeot-103-electrique",
+    "name": "Peugeot 103 Électrique",
+    "reason": "excluded_category:Moto Électrique > Séries Limitées"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-torrot-mx1",
+    "name": "Torrot MX1",
+    "reason": "excluded_category:Moto Électrique > Motocross > Enfant"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-sur-ron-hyper-bee",
+    "name": "Sur-Ron Hyper Bee",
+    "reason": "excluded_category:Moto Électrique > Motocross > Enfant"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-talaria-komodo",
+    "name": "Talaria Komodo",
+    "reason": "excluded_category:Moto Électrique > Motocross"
+  },
+  {
+    "type": "simple",
+    "sku": "zeeho-city-sport",
+    "name": "Zeeho C!ty Sport",
+    "reason": "excluded_category:Moto Électrique > Moto Sans Permis"
+  },
+  {
+    "type": "simple",
+    "sku": "talaria-sting-r4000-limited-v2-0-homologuee",
+    "name": "Talaria Sting R4000 Limited V2.0 Homologuée",
+    "reason": "excluded_category:Moto Électrique > Motocross"
+  },
+  {
+    "type": "simple",
+    "sku": "murtas-tx-evo",
+    "name": "Murtas Motorcycles TX EVO",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "simple",
+    "sku": "talaria-sting-5500-pro-off-road",
+    "name": "Talaria Sting 5500 Pro Off Road",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "simple",
+    "sku": "talaria-sting-tl4000-abs-homologuee",
+    "name": "Talaria Sting TL4000 ABS Homologuée",
+    "reason": "excluded_category:Moto Électrique > Motocross"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-bmw-ce-02",
+    "name": "BMW CE 02",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "simple",
+    "sku": "talaria-xxx-80-km",
+    "name": "Talaria XXX - 80-km",
+    "reason": "excluded_category:Moto Électrique > Moto Sans Permis"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-apollo-rfz-racing-falcon",
+    "name": "Apollo RFZ Racing Falcon",
+    "reason": "excluded_category:Moto Électrique > Motocross > Enfant"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-apollo-rxf-rocket",
+    "name": "Apollo RXF Rocket",
+    "reason": "excluded_category:Moto Électrique > Motocross > Enfant"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-caofen-f80",
+    "name": "Caofen F80",
+    "reason": "excluded_category:Moto Électrique > Motocross"
+  },
+  {
+    "type": "simple",
+    "sku": "talaria-sting-homologuee",
+    "name": "Talaria Sting TL3000 Homologuée",
+    "reason": "excluded_category:Moto Électrique > Motocross"
+  },
+  {
+    "type": "simple",
+    "sku": "pursang-e-track",
+    "name": "Pursang E-Track",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "simple",
+    "sku": "talaria-sting-off-road-150-km",
+    "name": "Talaria Sting Off Road - 150-km",
+    "reason": "excluded_category:Moto Électrique > Motocross"
+  },
+  {
+    "type": "simple",
+    "sku": "sur-ron-light-bee-youth",
+    "name": "Sur-Ron Light Bee Youth X",
+    "reason": "excluded_category:Moto Électrique > Motocross > Enfant"
+  },
+  {
+    "type": "simple",
+    "sku": "sur-ron-storm-bee-off-road",
+    "name": "Sur-Ron Storm Bee Off Road",
+    "reason": "excluded_category:Moto Électrique > Motocross"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-sur-ron-light-bee-x",
+    "name": "Sur-Ron Light Bee X",
+    "reason": "excluded_category:Moto Électrique > Motocross"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-sur-ron-storm-bee",
+    "name": "Sur-Ron Storm Bee Homologuée",
+    "reason": "excluded_category:Moto Électrique > Motocross"
+  },
+  {
+    "type": "simple",
+    "sku": "talaria-sting-5500-pro-homologuee",
+    "name": "Talaria Sting 5500 Pro Homologuée",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-ultraviolette-f77-mach-2",
+    "name": "Ultraviolette F77",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-sur-ron-ultra-bee",
+    "name": "Sur-Ron Ultra Bee HP",
+    "reason": "excluded_category:Moto Électrique > Motocross"
+  },
+  {
+    "type": "simple",
+    "sku": "antivol-u-top-block-104-120-sra",
+    "name": "Antivol U Top Block 104/120 SRA",
+    "reason": "excluded_category:Accessori > Antivol"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-motron-vizion",
+    "name": "Motron Vizion",
+    "reason": "excluded_category:Moto Électrique > Roadster"
+  },
+  {
+    "type": "simple",
+    "sku": "invoxia-tracker-gps",
+    "name": "Invoxia Tracker GPS",
+    "reason": "excluded_category:Accessori > Antivol"
+  },
+  {
+    "type": "simple",
+    "sku": "4567gt549jh",
+    "name": "Batterie Pink Mobility Pink Up",
+    "reason": "excluded_category:Accessori > Batterie"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-sur-ron-light-bee-homologuee-x",
+    "name": "Sur-Ron Light Bee Homologuée X",
+    "reason": "excluded_category:Moto Électrique > Motocross"
+  },
+  {
+    "type": "simple",
+    "sku": "rezon-bohemia",
+    "name": "Rezon Bohemia",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-top-box-silence-s02-hs-et-ls",
+    "name": "Top Box Silence S02 HS et LS",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "topc100l",
+    "name": "Top Case 100 litres",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "platine-top-case-85-100-120-l",
+    "name": "Platine pour Top Case 85, 100 et 120 litres",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "topc100l-1",
+    "name": "Top Case 120 litres",
+    "reason": "excluded_category:Accessori > Bauletti"
+  },
+  {
+    "type": "simple",
+    "sku": "talaria-sting-tl4000-homologuee-45-km-h-noir-bleu",
+    "name": "Talaria Sting TL4000 Homologuée - 45-km-h / noir-bleu",
+    "reason": "excluded_category:Moto Électrique > Motocross"
+  },
+  {
+    "type": "simple",
+    "sku": "support-de-top-case-murtas-tx",
+    "name": "Support de top case Murtas RRX",
+    "reason": "excluded_category:Accessori > Bauletti > Supporto bauletto"
+  },
+  {
+    "type": "simple",
+    "sku": "murtas-motorcycles-rrx",
+    "name": "Murtas Motorcycles RRX",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "simple",
+    "sku": "ovaobike-mcr-s",
+    "name": "Ovaobike MCR-S",
+    "reason": "excluded_category:Moto Électrique > Roadster"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-ovaobike-mcr-h",
+    "name": "Ovaobike MCR-H",
+    "reason": "excluded_category:Moto Électrique > Roadster"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-ovaobike-mcr-m",
+    "name": "Ovaobike MCR-M",
+    "reason": "excluded_category:Moto Électrique > Roadster"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-pink-mobility-e-verest",
+    "name": "Pink Mobility E-VEREST",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "simple",
+    "sku": "ultraviolette-x-47-crossover",
+    "name": "Ultraviolette X-47 Crossover",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "variable",
+    "sku": "www-go2roues-com-shop-alrendo-ts-bravo",
+    "name": "Alrendo TS BRAVO 2026",
+    "reason": "excluded_category:Moto Électrique"
+  },
+  {
+    "type": "variation",
+    "sku": "couronne-sur-ron-58-dents",
+    "name": "Couronne Sur-Ron - 58-dents",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "couronne-sur-ron-42-dents",
+    "name": "Couronne Sur-Ron - 42-dents",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "couronne-sur-ron-48-dents",
+    "name": "Couronne Sur-Ron - 48-dents",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "disque-de-frein-sur-ron-avant",
+    "name": "Disque de frein Sur-Ron - avant",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "disque-de-frein-sur-ron-arriere",
+    "name": "Disque de frein Sur-Ron - arriere",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "kit-deco-off-bee-sur-ron-rose",
+    "name": "Kit Deco OFF-BEE Sur-Ron - rose",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "kit-deco-off-bee-sur-ron-bleu",
+    "name": "Kit Deco OFF-BEE Sur-Ron - bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "kit-deco-off-bee-sur-ron-silver",
+    "name": "Kit Deco OFF-BEE Sur-Ron - silver",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "kit-deco-super-star-sur-ron-bleu",
+    "name": "Kit Deco Super Star Sur-Ron - bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "kit-deco-super-star-sur-ron-vert",
+    "name": "Kit Deco Super Star Sur-Ron - vert",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "kit-deco-super-star-sur-ron-noir",
+    "name": "Kit Deco Super Star Sur-Ron - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "kit-deco-super-star-sur-ron-rouge",
+    "name": "Kit Deco Super Star Sur-Ron - rouge",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "suppsmarcuir-l",
+    "name": "Support smartphone motos et scooters - l",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "suppsmarcuir-xl",
+    "name": "Support smartphone motos et scooters - xl",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "kit-deco-talaria-sting-blanc",
+    "name": "Kit Deco Talaria Sting - blanc",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "kit-deco-talaria-sting-bleu",
+    "name": "Kit Deco Talaria Sting - bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "kit-deco-talaria-sting-vert",
+    "name": "Kit Deco Talaria Sting - vert",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "support-quadlock-scooter",
+    "name": "Support QuadLock - scooter",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "support-quadlock-moto",
+    "name": "Support QuadLock - moto",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "housse-protection-tucano-petit",
+    "name": "Housse de protection Tucano - petit",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "housse-protection-tucano-moyen",
+    "name": "Housse de protection Tucano - moyen",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "housse-protection-tucano-maxiscooter",
+    "name": "Housse de protection Tucano - maxiscooter",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "dosseret-passager-silence-s01-noir",
+    "name": "Dosseret passager Silence S01 - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "dosseret-passager-silence-s01-blanc",
+    "name": "Dosseret passager Silence S01 - blanc",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "couvercle-top-case-shad-sh39-noir-brillant",
+    "name": "Couvercle pour Top case Shad SH39 - noir-brillant",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "couvercle-top-case-shad-sh39-blanc",
+    "name": "Couvercle pour Top case Shad SH39 - blanc",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "couvercle-top-case-shad-sh39-gris-argente",
+    "name": "Couvercle pour Top case Shad SH39 - gris-argente",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "couvercle-top-case-shad-sh39-carbone",
+    "name": "Couvercle pour Top case Shad SH39 - carbone",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "couvercle-top-case-shad-sh29-rouge-bordeaux",
+    "name": "Couvercle pour Top Case Shad SH29 - rouge-bordeaux",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "couvercle-top-case-shad-sh29-blanc",
+    "name": "Couvercle pour Top Case Shad SH29 - blanc",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "couvercle-top-case-shad-sh29-gris-argente",
+    "name": "Couvercle pour Top Case Shad SH29 - gris-argente",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "couvercle-top-case-shad-sh29-bleu",
+    "name": "Couvercle pour Top Case Shad SH29 - bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "couvercle-top-case-shad-sh29-noir-brillant",
+    "name": "Couvercle pour Top Case Shad SH29 - noir-brillant",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-ebroh-veracruz-5k-blanc",
+    "name": "Top Case Ebroh Veracruz 5K - blanc",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-ebroh-veracruz-5k-noir",
+    "name": "Top Case Ebroh Veracruz 5K - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-ebroh-veracruz-5k-rouge",
+    "name": "Top Case Ebroh Veracruz 5K - rouge",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-spuma-li-marron",
+    "name": "Top Case Ebroh Spuma Li - marron",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-spuma-li-blanc",
+    "name": "Top Case Ebroh Spuma Li - blanc",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-spuma-li-bleu",
+    "name": "Top Case Ebroh Spuma Li - bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-spuma-li-noir",
+    "name": "Top Case Ebroh Spuma Li - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-spuma-li-rouge",
+    "name": "Top Case Ebroh Spuma Li - rouge",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-spuma-li-vert",
+    "name": "Top Case Ebroh Spuma Li - vert",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-spuma-li-bleu-fonce",
+    "name": "Top Case Ebroh Spuma Li - bleu-fonce",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "couvercle-top-case-kumpan-54-noir",
+    "name": "Couvercle pour Top Case Kumpan 54 - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "couvercle-top-case-kumpan-54-blanc",
+    "name": "Couvercle pour Top Case Kumpan 54 - blanc",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "couvercle-top-case-kumpan-54-bleu",
+    "name": "Couvercle pour Top Case Kumpan 54 - bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "couvercle-top-case-kumpan-54-gris",
+    "name": "Couvercle pour Top Case Kumpan 54 - gris",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "couvercle-top-case-kumpan-54-jaune",
+    "name": "Couvercle pour Top Case Kumpan 54 - jaune",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "barres-de-renforts-ebroh-bravo-gle-noir",
+    "name": "Barres de renforts Ebroh Bravo GLE - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "barres-de-renforts-ebroh-bravo-gle-rouge",
+    "name": "Barres de renforts Ebroh Bravo GLE - rouge",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "batterie-super-soco-tc-ts-tsx-super-soco-tsx",
+    "name": "Batterie Super Soco TC, TS et TSX - super-soco-tsx",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "batterie-super-soco-tc-ts-tsx-super-soco-tc",
+    "name": "Batterie Super Soco TC, TS et TSX - super-soco-tc",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "batterie-super-soco-tc-ts-tsx-super-soco-ts",
+    "name": "Batterie Super Soco TC, TS et TSX - super-soco-ts",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-moto-coocase-x3-aluminium-series-6-8jf1zv",
+    "name": "TOP CASE MOTO COOCASE X3 ALUMINIUM SERIES 60 LITRES - gris",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-moto-coocase-x3-aluminium-series-6-8jjgog",
+    "name": "TOP CASE MOTO COOCASE X3 ALUMINIUM SERIES 60 LITRES - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "support-smartphone-universel-retroviseur",
+    "name": "Support smartphone universel - Rétroviseur",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "support-smartphone-universel-guidon",
+    "name": "Support smartphone universel - Guidon",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "support-top-case-segway-e125s",
+    "name": "Support Top Case Shad pour Segway - e125s",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "support-top-case-segway-e300se",
+    "name": "Support Top Case Shad pour Segway - e300se",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "doubleur-de-charge-segway-e300se",
+    "name": "Câble doubleur de charge Segway - e300se",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "doubleur-de-charge-segway-e125s",
+    "name": "Câble doubleur de charge Segway - e125s",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "cargo-arriere-plateau-pour-ubco-rover-2x2-blanc",
+    "name": "Cargo arrière plateau pour UBCO ROVER 2X2 - blanc",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "cargo-arriere-plateau-pour-ubco-rover-2x2-noir",
+    "name": "Cargo arrière plateau pour UBCO ROVER 2X2 - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "cargo-avant-plateau-pour-ubco-rover-2x2-blanc",
+    "name": "Cargo avant plateau pour UBCO ROVER 2X2 - blanc",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "cargo-avant-plateau-pour-ubco-rover-2x2-noir",
+    "name": "Cargo avant plateau pour UBCO ROVER 2X2 - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "antivol-bloque-disque-cranns-connecte-avec--1frco9",
+    "name": "Antivol Bloque Disque Cranns Connecté Avec Alarme - VD14 / VD10 - SRA - vd10",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "antivol-bloque-disque-cranns-connecte-avec--1frcoa",
+    "name": "Antivol Bloque Disque Cranns Connecté Avec Alarme - VD14 / VD10 - SRA - vd14",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "antivol-bloque-disque-oxford-alpha-alpha-xa14",
+    "name": "Antivol Bloque disque Oxford Alpha - alpha-xa14",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "antivol-bloque-disque-oxford-alpha-alpha-xd14",
+    "name": "Antivol Bloque disque Oxford Alpha - alpha-xd14",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sacoche-pink-mobility-pink-up-35-litres",
+    "name": "Sacoche Pink Mobility Pink Up - 35-litres",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sacoche-pink-mobility-pink-up-70-litres",
+    "name": "Sacoche Pink Mobility Pink Up - 70-litres",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "kitcarcux-blanc",
+    "name": "Kit carénages élargissant avant Super Soco CU-X - blanc",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "kitcarcux-bronze",
+    "name": "Kit carénages élargissant avant Super Soco CU-X - bronze",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "kitcarcux-gris",
+    "name": "Kit carénages élargissant avant Super Soco CU-X - gris",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "kitcarcux-rouge",
+    "name": "Kit carénages élargissant avant Super Soco CU-X - rouge",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "2twenty-selle-premium-rayures-camel",
+    "name": "Selle Premium 2Twenty Roma - rayures-camel",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "2twenty-selle-premium-rayures-rose-poudre",
+    "name": "Selle Premium 2Twenty Roma - rayures-rose-poudre",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "2twenty-selle-premium-rayures-vert-tanne",
+    "name": "Selle Premium 2Twenty Roma - rayures-vert-tanne",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "2twenty-selle-premium-union-jack-coutures-noires",
+    "name": "Selle Premium 2Twenty Roma - union-jack-coutures-noires",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "2twenty-selle-premium-union-jack-coutures-r-1g2piv",
+    "name": "Selle Premium 2Twenty Roma - union-jack-coutures-rouges-bleues-blanches",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "2twenty-selle-premium-lisse-vert-tanne",
+    "name": "Selle Premium 2Twenty Roma - lisse-vert-tanne",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "2twenty-selle-premium-lisse-marron-tanne",
+    "name": "Selle Premium 2Twenty Roma - lisse-marron-tanne",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "2twenty-selle-premium-lisse-beige-tanne",
+    "name": "Selle Premium 2Twenty Roma - lisse-beige-tanne",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "2twenty-selle-premium-jacquard-sable-tanne",
+    "name": "Selle Premium 2Twenty Roma - jacquard-sable-tanne",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "2twenty-selle-premium-jacquard-marron-tanne",
+    "name": "Selle Premium 2Twenty Roma - jacquard-marron-tanne",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "2twenty-selle-premium-jacquard-marron",
+    "name": "Selle Premium 2Twenty Roma - jacquard-marron",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "2twenty-selle-premium-jacquard-bordeaux",
+    "name": "Selle Premium 2Twenty Roma - jacquard-bordeaux",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-givi-trekker-outback-58-alu",
+    "name": "Top Case Givi Trekker Outback 58 - alu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-givi-trekker-outback-58-noir",
+    "name": "Top Case Givi Trekker Outback 58 - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-givi-trekker-outback-42-alu",
+    "name": "Top Case Givi Trekker Outback 42 - alu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-givi-trekker-outback-42-noir",
+    "name": "Top Case Givi Trekker Outback 42 - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "dosseret-pour-top-case-givi-trekker-outback-42-alu",
+    "name": "Dosseret pour Top Case Givi Trekker Outback 42 - alu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "dosseret-pour-top-case-givi-trekker-outback-1vjw95",
+    "name": "Dosseret pour Top Case Givi Trekker Outback 42 - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-amovible-rider-3000w-5000w-rouge",
+    "name": "Top Case Rider 3000W & 5000W Amovible - rouge",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-amovible-rider-3000w-5000w-beige",
+    "name": "Top Case Rider 3000W & 5000W Amovible - beige",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-amovible-rider-3000w-5000w-noir-mat",
+    "name": "Top Case Rider 3000W & 5000W Amovible - noir-mat",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-amovible-rider-3000w-5000w-noir-brillant",
+    "name": "Top Case Rider 3000W & 5000W Amovible - noir-brillant",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-amovible-rider-3000w-5000w-vert-deau",
+    "name": "Top Case Rider 3000W & 5000W Amovible - vert-deau",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-fixe-rider-5000w-3000w-noir-mat",
+    "name": "Top Case Rider 3000W & 5000W Fixe - noir-mat",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-fixe-rider-5000w-3000w-turquoise",
+    "name": "Top Case Rider 3000W & 5000W Fixe - turquoise",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-fixe-rider-5000w-3000w-beige",
+    "name": "Top Case Rider 3000W & 5000W Fixe - beige",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-fixe-rider-5000w-3000w-noir-brillant",
+    "name": "Top Case Rider 3000W & 5000W Fixe - noir-brillant",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "orcalportbag-noir",
+    "name": "Support Top Case Orcal E1 et E1-R - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "orcalportbag-gris-silver",
+    "name": "Support Top Case Orcal E1 et E1-R - gris-silver",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "bumpers-de-barres-renfort-ebroh-bravo-bravo-1gv55e",
+    "name": "Bumpers de Barres de renfort Ebroh Bravo - bravo-gle-pro",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "bumpers-de-barres-renfort-ebroh-bravo-bravo-gls",
+    "name": "Bumpers de Barres de renfort Ebroh Bravo - bravo-gls",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top2twenty-bleu",
+    "name": "Top case 2Twenty Roma - bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top2twenty-gris-argente",
+    "name": "Top case 2Twenty Roma - gris-argente",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top2twenty-noir",
+    "name": "Top case 2Twenty Roma - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top2twenty-rouge",
+    "name": "Top case 2Twenty Roma - rouge",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "antivol-sxp-120",
+    "name": "Antivol SXP pour Tablier de protection - 120",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "antivol-sxp-180",
+    "name": "Antivol SXP pour Tablier de protection - 180",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "support-smartphone-shad-guidon-6-6-pouces",
+    "name": "Support Smartphone Shad - Guidon / 6-6-pouces",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "support-smartphone-shad-retroviseur-6-6-pouces",
+    "name": "Support Smartphone Shad - Rétroviseur / 6-6-pouces",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "support-smartphone-shad-guidon-6-pouces",
+    "name": "Support Smartphone Shad - Guidon / 6-pouces",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "support-smartphone-shad-retroviseur-6-pouces",
+    "name": "Support Smartphone Shad - Rétroviseur / 6-pouces",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "naxeon-i-am-lite-pro-i-am-lite-accona-gray",
+    "name": "NAXEON I AM LITE - PRO - i-am-lite / accona-gray",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "naxeon-i-am-lite-pro-i-am-lite-mont-blanc-white",
+    "name": "NAXEON I AM LITE - PRO - i-am-lite / mont-blanc-white",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "naxeon-i-am-lite-pro-i-am-lite-stromboli-black",
+    "name": "NAXEON I AM LITE - PRO - i-am-lite / stromboli-black",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "naxeon-i-am-lite-pro-i-am-lite-vatna-blue",
+    "name": "NAXEON I AM LITE - PRO - i-am-lite / vatna-blue",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "naxeon-i-am-lite-pro-i-am-pro-accona-gray",
+    "name": "NAXEON I AM LITE - PRO - i-am-pro / accona-gray",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "naxeon-i-am-lite-pro-i-am-pro-mont-blanc-white",
+    "name": "NAXEON I AM LITE - PRO - i-am-pro / mont-blanc-white",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "naxeon-i-am-lite-pro-i-am-pro-stromboli-black",
+    "name": "NAXEON I AM LITE - PRO - i-am-pro / stromboli-black",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "naxeon-i-am-lite-pro-i-am-pro-vatna-blue",
+    "name": "NAXEON I AM LITE - PRO - i-am-pro / vatna-blue",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "urbet-gadiro-80-km-gris",
+    "name": "Urbet Gadiro - 80-km / gris",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "urbet-gadiro-80-km-noir",
+    "name": "Urbet Gadiro - 80-km / noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "urbet-gadiro-80-km-rouge",
+    "name": "Urbet Gadiro - 80-km / rouge",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "urbet-gadiro-160-km-turquoise",
+    "name": "Urbet Gadiro - 160-km / turquoise",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "urbet-gadiro-160-km-blanc",
+    "name": "Urbet Gadiro - 160-km / blanc",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "urbet-gadiro-160-km-gris",
+    "name": "Urbet Gadiro - 160-km / gris",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "urbet-gadiro-160-km-noir",
+    "name": "Urbet Gadiro - 160-km / noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "urbet-gadiro-160-km-rouge",
+    "name": "Urbet Gadiro - 160-km / rouge",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "urbet-gadiro-80-km-turquoise",
+    "name": "Urbet Gadiro - 80-km / turquoise",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "urbet-gadiro-80-km-blanc",
+    "name": "Urbet Gadiro - 80-km / blanc",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "rider-sr8-bleu",
+    "name": "Rider SR8 - bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "rider-sr8-noir",
+    "name": "Rider SR8 - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "tromox-ukko-s-gris",
+    "name": "Tromox Ukko S - gris",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "tromox-ukko-s-bleu",
+    "name": "Tromox Ukko S - bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "tromox-ukko-s-noir",
+    "name": "Tromox Ukko S - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "tromox-ukko-s-orange",
+    "name": "Tromox Ukko S - orange",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "horwin-ht3-80-km-ht3-cross",
+    "name": "Horwin HT3 - 80-km / ht3-cross",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "horwin-ht3-200-km-ht3-cross",
+    "name": "Horwin HT3 - 200-km / ht3-cross",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "horwin-ht3-80-km-ht3-trail",
+    "name": "Horwin HT3 - 80-km / ht3-trail",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "horwin-ht3-130-km-ht3-trail",
+    "name": "Horwin HT3 - 130-km / ht3-trail",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "horwin-ht5-ht5-l",
+    "name": "Horwin HT5 - ht5-l",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "horwin-ht5-ht5-r",
+    "name": "Horwin HT5 - ht5-r",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "tromox-mino-gris",
+    "name": "Tromox Mino - gris",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "tromox-mino-bleu",
+    "name": "Tromox Mino - bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "tromox-mino-noir",
+    "name": "Tromox Mino - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sunra-miku-max-gris",
+    "name": "Sunra Miku Max - gris",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sunra-miku-max-bleu",
+    "name": "Sunra Miku Max - bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sunra-miku-max-orange",
+    "name": "Sunra Miku Max - orange",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sunra-miku-max-noir",
+    "name": "Sunra Miku Max - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sunra-miku-max-vert",
+    "name": "Sunra Miku Max - vert",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sunra-miku-max-blanc",
+    "name": "Sunra Miku Max - blanc",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "ebroh-bravo-cr-gris-bleu",
+    "name": "Ebroh Bravo CR - gris-bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "ebroh-bravo-cr-noir-vert",
+    "name": "Ebroh Bravo CR - noir-vert",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "ebroh-bravo-cr-noir-rouge",
+    "name": "Ebroh Bravo CR - noir-rouge",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "ebroh-bravo-cr-noir-bleu",
+    "name": "Ebroh Bravo CR - noir-bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sunra-miku-super-bleu",
+    "name": "Sunra Miku Super - bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sunra-miku-super-jaune",
+    "name": "Sunra Miku Super - jaune",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sunra-miku-super-rouge",
+    "name": "Sunra Miku Super - rouge",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "super-soco-tc-wanderer-gris",
+    "name": "Super Soco TC Wanderer - gris",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "super-soco-tc-wanderer-vert",
+    "name": "Super Soco TC Wanderer - vert",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "ebroh-bravo-gls-noir-brillant",
+    "name": "Ebroh Bravo GLS - noir-brillant",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "ebroh-bravo-gls-noir-rouge",
+    "name": "Ebroh Bravo GLS - noir-rouge",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "ebroh-bravo-gls-noir-bleu",
+    "name": "Ebroh Bravo GLS - noir-bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "super-soco-ts-street-hunter-bleu",
+    "name": "Super Soco TS Street Hunter - bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "super-soco-ts-street-hunter-noir",
+    "name": "Super Soco TS Street Hunter - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "super-soco-ts-street-hunter-gris",
+    "name": "Super Soco TS Street Hunter - gris",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "super-soco-ts-street-hunter-blanc",
+    "name": "Super Soco TS Street Hunter - blanc",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "horcr6-1-1-rouge",
+    "name": "Ebroh Bravo GLE Pro - rouge",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "horcr6-1-1-noir-brillant",
+    "name": "Ebroh Bravo GLE Pro - noir-brillant",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "horcr6-1-1-noir-bleu",
+    "name": "Ebroh Bravo GLE Pro - noir-bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sutcmo80ror-1-bleu",
+    "name": "Super Soco TC - bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sutcmo80ror-1-noir",
+    "name": "Super Soco TC - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sutcmo80ror-1-vert",
+    "name": "Super Soco TC - vert",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "cityslick-noir",
+    "name": "Cineco City Slicker - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "cityslick-rouge",
+    "name": "Cineco City Slicker - rouge",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sutsmo78reg-1-noir",
+    "name": "Super Soco TS 1200R - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sutsmo78reg-1-rouge",
+    "name": "Super Soco TS 1200R - rouge",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "supsocotcmax-bleu-roues-aluminium",
+    "name": "Super Soco TC MAX - bleu / roues-aluminium",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "supsocotcmax-full-black-roues-aluminium",
+    "name": "Super Soco TC MAX - full-black / roues-aluminium",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "supsocotcmax-noir-rouge-roues-aluminium",
+    "name": "Super Soco TC MAX - noir-rouge / roues-aluminium",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "supsocotcmax-noir-jaune-roues-aluminium",
+    "name": "Super Soco TC MAX - noir-jaune / roues-aluminium",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "riderrs5000-noir-rouge",
+    "name": "Rider RS 5000 - noir-rouge",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "riderrs5000-noir",
+    "name": "Rider RS 5000 - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sutsx-gris",
+    "name": "Super Soco TSX - gris",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sutsx-noir",
+    "name": "Super Soco TSX - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sutsx-rouge",
+    "name": "Super Soco TSX - rouge",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "casque-jet-smk-gtj-l",
+    "name": "CASQUE JET SMK GTJ - l",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "casque-jet-smk-gtj-m",
+    "name": "CASQUE JET SMK GTJ - m",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "casque-jet-smk-gtj-s",
+    "name": "CASQUE JET SMK GTJ - s",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "casque-jet-smk-gtj-xl",
+    "name": "CASQUE JET SMK GTJ - xl",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "casque-jet-smk-gtj-xxl",
+    "name": "CASQUE JET SMK GTJ - xxl",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "casque-jet-smk-gtj-xs",
+    "name": "CASQUE JET SMK GTJ - xs",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "pareisottamqigt-moyen",
+    "name": "Pare-brise Isotta Niu MQi GT / MQi GT Evo - moyen",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "pareisottamqigt-haut",
+    "name": "Pare-brise Isotta Niu MQi GT / MQi GT Evo - haut",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "tablier-de-protection-tucano-termoscud-r176-r176",
+    "name": "Tablier de protection Tucano Termoscud R176 - r176",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "tablier-de-protection-tucano-termoscud-r176-588r6z",
+    "name": "Tablier de protection Tucano Termoscud R176 - r176-pro",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "niumoto-vert",
+    "name": "NIU RQi Sport - vert",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "niumoto-rouge",
+    "name": "NIU RQi Sport - rouge",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "niumoto-gris",
+    "name": "NIU RQi Sport - gris",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "niu-xqi3-l1e-blanc",
+    "name": "NIU XQi3 - l1e / blanc",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "niu-xqi3-l1e-jaune",
+    "name": "NIU XQi3 - l1e / jaune",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "niu-xqi3-l1e-noir",
+    "name": "NIU XQi3 - l1e / noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "niu-xqi3-l1e-violet",
+    "name": "NIU XQi3 - l1e / violet",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-coocase-x1-alu",
+    "name": "Top Case Coocase X1 - alu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-coocase-x1-noir",
+    "name": "Top Case Coocase X1 - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-pink-mobility-pink-pop-et-pink-pop-r5ekxv",
+    "name": "Top case Pink Mobility Pink POP et POP PLUS - bleu-cendre",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-pink-mobility-pink-pop-et-pink-pop-1clf9p",
+    "name": "Top case Pink Mobility Pink POP et POP PLUS - bleu-nuit",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-pink-mobility-pink-pop-et-pink-pop-1l4sc8",
+    "name": "Top case Pink Mobility Pink POP et POP PLUS - gris",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-pink-mobility-pink-pop-et-pink-pop-1oo0ll",
+    "name": "Top case Pink Mobility Pink POP et POP PLUS - orange",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-pink-mobility-pink-pop-et-pink-pop-1l51nm",
+    "name": "Top case Pink Mobility Pink POP et POP PLUS - vert",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "toppinkstyle-sable",
+    "name": "Top Case Pink Mobility Pink Style et Pink Style Plus - sable",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "toppinkstyle-noir",
+    "name": "Top Case Pink Mobility Pink Style et Pink Style Plus - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "toppinkstyle-bleu-diesel",
+    "name": "Top Case Pink Mobility Pink Style et Pink Style Plus - bleu-diesel",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "toppinkstyle-gris-orage",
+    "name": "Top Case Pink Mobility Pink Style et Pink Style Plus - gris-orage",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "kit-offroad-pour-moto-sur-ron-non",
+    "name": "Kit OffRoad pour moto Sur-Ron - non",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "kit-offroad-pour-moto-sur-ron-oui",
+    "name": "Kit OffRoad pour moto Sur-Ron - oui",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "pareisottasilences01-classic",
+    "name": "Pare-brise Isotta Silence S01 / S01+ - classic",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "pareisottasilences01-haut",
+    "name": "Pare-brise Isotta Silence S01 / S01+ - haut",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-avec-support-segway-e300se-e110s-2",
+    "name": "Top Case avec Support Segway - e300se-e110s-2",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "top-case-avec-support-segway-e125s",
+    "name": "Top Case avec Support Segway - e125s",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "dosseret-passager-segway-e300se",
+    "name": "Dosseret passager Segway - e300se",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "dosseret-passager-segway-e110s",
+    "name": "Dosseret passager Segway - e110s",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "dosseret-passager-segway-e125s",
+    "name": "Dosseret passager Segway - e125s",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "vmoto-stash-nado-grey",
+    "name": "Vmoto Stash - nado-grey",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "vmoto-stash-black",
+    "name": "Vmoto Stash - black",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "vmoto-stash-blue",
+    "name": "Vmoto Stash - blue",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "torrot-mx2-motocross",
+    "name": "Torrot MX2 - Motocross",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "torrot-mx2-supermotard",
+    "name": "Torrot MX2 - Supermotard",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "peugeot-103-electrique-noir",
+    "name": "Peugeot 103 Électrique - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "peugeot-103-electrique-bleu",
+    "name": "Peugeot 103 Électrique - bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "peugeot-103-electrique-orange",
+    "name": "Peugeot 103 Électrique - orange",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "torrot-mx1-motocross",
+    "name": "Torrot MX1 - Motocross",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "torrot-mx1-supermotard",
+    "name": "Torrot MX1 - Supermotard",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sur-ron-hyper-bee-noir-bleu",
+    "name": "Sur-Ron Hyper Bee - noir-bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sur-ron-hyper-bee-noir-jaune",
+    "name": "Sur-Ron Hyper Bee - noir-jaune",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sur-ron-hyper-bee-noir-vert",
+    "name": "Sur-Ron Hyper Bee - noir-vert",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sur-ron-hyper-bee-blanc-rose",
+    "name": "Sur-Ron Hyper Bee - blanc-rose",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "talaria-komodo-talaria-komodo-homologuee-ro-fpdxps",
+    "name": "Talaria Komodo - talaria-komodo-homologuee-route-l3e / noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "talaria-komodo-talaria-komodo-homologuee-ro-nwevcf",
+    "name": "Talaria Komodo - talaria-komodo-homologuee-route-l3e / noir-blanc",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "talaria-komodo-talaria-komodo-off-road-120--1q90ct",
+    "name": "Talaria Komodo - talaria-komodo-off-road-120-km-h / noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "bmw-ce-02-45-km-h",
+    "name": "BMW CE 02 - 45-km-h",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "bmw-ce-02-95-km-h",
+    "name": "BMW CE 02 - 95-km-h",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "apollo-rfz-racing-falcon-bleu",
+    "name": "Apollo RFZ Racing Falcon - bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "apollo-rfz-racing-falcon-jaune",
+    "name": "Apollo RFZ Racing Falcon - jaune",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "apollo-rfz-racing-falcon-orange",
+    "name": "Apollo RFZ Racing Falcon - orange",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "apollo-rfz-racing-falcon-rose",
+    "name": "Apollo RFZ Racing Falcon - rose",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "apollo-rfz-racing-falcon-rouge",
+    "name": "Apollo RFZ Racing Falcon - rouge",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "apollo-rfz-racing-falcon-vert",
+    "name": "Apollo RFZ Racing Falcon - vert",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "apollo-rxf-rocket-vert-rxf-rocket-1-300w",
+    "name": "Apollo RXF Rocket - vert / rxf-rocket-1-300w",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "apollo-rxf-rocket-rouge-rxf-rocket-1-300w",
+    "name": "Apollo RXF Rocket - rouge / rxf-rocket-1-300w",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "apollo-rxf-rocket-rose-rxf-rocket-1-300w",
+    "name": "Apollo RXF Rocket - rose / rxf-rocket-1-300w",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "apollo-rxf-rocket-orange-rxf-rocket-1-300w",
+    "name": "Apollo RXF Rocket - orange / rxf-rocket-1-300w",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "apollo-rxf-rocket-jaune-rxf-rocket-1-300w",
+    "name": "Apollo RXF Rocket - jaune / rxf-rocket-1-300w",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "apollo-rxf-rocket-bleu-rxf-rocket-1-300w",
+    "name": "Apollo RXF Rocket - bleu / rxf-rocket-1-300w",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "apollo-rxf-rocket-bleu-rxf-rocket-1-000w",
+    "name": "Apollo RXF Rocket - bleu / rxf-rocket-1-000w",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "apollo-rxf-rocket-jaune-rxf-rocket-1-000w",
+    "name": "Apollo RXF Rocket - jaune / rxf-rocket-1-000w",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "apollo-rxf-rocket-orange-rxf-rocket-1-000w",
+    "name": "Apollo RXF Rocket - orange / rxf-rocket-1-000w",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "apollo-rxf-rocket-rose-rxf-rocket-1-000w",
+    "name": "Apollo RXF Rocket - rose / rxf-rocket-1-000w",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "apollo-rxf-rocket-rouge-rxf-rocket-1-000w",
+    "name": "Apollo RXF Rocket - rouge / rxf-rocket-1-000w",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "apollo-rxf-rocket-vert-rxf-rocket-1-000w",
+    "name": "Apollo RXF Rocket - vert / rxf-rocket-1-000w",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "caofen-f80-gris",
+    "name": "Caofen F80 - gris",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "caofen-f80-noir",
+    "name": "Caofen F80 - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sur-ron-light-bee-x-light-bee-x-off-road-ph-wl1qo4",
+    "name": "Sur-Ron Light Bee X - light-bee-x-off-road / phantom-purple",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sur-ron-light-bee-x-light-bee-x-off-road-vert",
+    "name": "Sur-Ron Light Bee X - light-bee-x-off-road / vert",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sur-ron-light-bee-x-light-bee-x-off-road-bleu",
+    "name": "Sur-Ron Light Bee X - light-bee-x-off-road / bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sur-ron-light-bee-x-light-bee-x-off-road-noir",
+    "name": "Sur-Ron Light Bee X - light-bee-x-off-road / noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sur-ron-light-bee-x-light-bee-x-l1e-noir",
+    "name": "Sur-Ron Light Bee X - light-bee-x-l1e / noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sur-ron-light-bee-x-light-bee-x-l1e-phantom-purple",
+    "name": "Sur-Ron Light Bee X - light-bee-x-l1e / phantom-purple",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sur-ron-light-bee-x-light-bee-x-l1e-bleu",
+    "name": "Sur-Ron Light Bee X - light-bee-x-l1e / bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sur-ron-light-bee-x-light-bee-x-l1e-vert",
+    "name": "Sur-Ron Light Bee X - light-bee-x-l1e / vert",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sur-ron-storm-bee-storm-bee-enduro",
+    "name": "Sur-Ron Storm Bee Homologuée - storm-bee-enduro",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sur-ron-storm-bee-storm-bee-trail",
+    "name": "Sur-Ron Storm Bee Homologuée - storm-bee-trail",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "ultraviolette-f77-mach-2-superstreet-afterb-5d5c7j",
+    "name": "Ultraviolette F77 - superstreet / afterburner-yellow",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "ultraviolette-f77-mach-2-superstreet-cosmic-black",
+    "name": "Ultraviolette F77 - superstreet / cosmic-black",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "ultraviolette-f77-mach-2-superstreet-stellar-white",
+    "name": "Ultraviolette F77 - superstreet / stellar-white",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "ultraviolette-f77-mach-2-superstreet-turbo-red",
+    "name": "Ultraviolette F77 - superstreet / turbo-red",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "ultraviolette-f77-mach-2-mach-2-asteroid-grey",
+    "name": "Ultraviolette F77 - mach-2 / asteroid-grey",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "ultraviolette-f77-mach-2-mach-2-turbo-red",
+    "name": "Ultraviolette F77 - mach-2 / turbo-red",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "ultraviolette-f77-mach-2-mach-2-stealth-grey",
+    "name": "Ultraviolette F77 - mach-2 / stealth-grey",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "ultraviolette-f77-mach-2-mach-2-supersonic-silver",
+    "name": "Ultraviolette F77 - mach-2 / supersonic-silver",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sur-ron-ultra-bee-noir",
+    "name": "Sur-Ron Ultra Bee HP - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sur-ron-ultra-bee-brun",
+    "name": "Sur-Ron Ultra Bee HP - brun",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "motron-vizion-noir",
+    "name": "Motron Vizion - noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "motron-vizion-blanc",
+    "name": "Motron Vizion - blanc",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sur-ron-light-bee-homologuee-x-light-bee-ho-b5n1lw",
+    "name": "Sur-Ron Light Bee Homologuée X - light-bee-homologuee-x-2025 / 70-km / bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sur-ron-light-bee-homologuee-x-light-bee-ho-b5zogr",
+    "name": "Sur-Ron Light Bee Homologuée X - light-bee-homologuee-x-2025 / 70-km / vert",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sur-ron-light-bee-homologuee-x-light-bee-ho-5bkyuh",
+    "name": "Sur-Ron Light Bee Homologuée X - light-bee-homologuee-x-2025 / 70-km / violet",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "sur-ron-light-bee-homologuee-x-light-bee-ho-b5urro",
+    "name": "Sur-Ron Light Bee Homologuée X - light-bee-homologuee-x-2025 / 70-km / noir",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "box200lsilence-200-litres",
+    "name": "Top Box Silence S02 HS et LS - 200-litres",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "box200lsilence-350-litres",
+    "name": "Top Box Silence S02 HS et LS - 350-litres",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "ovaobike-mcr-h-vert",
+    "name": "Ovaobike MCR-H - vert",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "ovaobike-mcr-h-bleu",
+    "name": "Ovaobike MCR-H - bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "ovaobike-mcr-h-rouge",
+    "name": "Ovaobike MCR-H - rouge",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "ovaobike-mcr-m-jaune",
+    "name": "Ovaobike MCR-M - jaune",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "ovaobike-mcr-m-vert",
+    "name": "Ovaobike MCR-M - vert",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "ovaobike-mcr-m-bleu",
+    "name": "Ovaobike MCR-M - bleu",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "ovaobike-mcr-m-rouge",
+    "name": "Ovaobike MCR-M - rouge",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "pink-mobility-e-verest-enduro-50-cc",
+    "name": "Pink Mobility E-VEREST - enduro-50-cc",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "pink-mobility-e-verest-supermotard-50-cc",
+    "name": "Pink Mobility E-VEREST - supermotard-50-cc",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "pink-mobility-e-verest-supermotard-125-cc",
+    "name": "Pink Mobility E-VEREST - supermotard-125-cc",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "alrendo-ts-bravo-gris",
+    "name": "Alrendo TS BRAVO 2026 - gris",
+    "reason": "excluded_parent_category"
+  },
+  {
+    "type": "variation",
+    "sku": "alrendo-ts-bravo-noir",
+    "name": "Alrendo TS BRAVO 2026 - noir",
+    "reason": "excluded_parent_category"
+  }
+]

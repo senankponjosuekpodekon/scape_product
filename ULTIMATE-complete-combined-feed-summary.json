@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-06-11T01:59:00.564Z",
+  "total_rows": 277,
+  "pool_products": {
+    "unique_products": 5,
+    "total_rows": 63,
+    "average_images_per_pool": "12.6"
+  },
+  "van_products": {
+    "unique_products": 5,
+    "total_rows": 214,
+    "handles": [
+      "van-fautras-oblic-3-2018",
+      "van-cheval-liberte-gold-3",
+      "fautras-provan-classic",
+      "fautras-jms-15-place",
+      "van-cheval-humbaur"
+    ],
+    "rows_by_handle": {
+      "van-fautras-oblic-3-2018": 29,
+      "van-cheval-liberte-gold-3": 79,
+      "fautras-provan-classic": 56,
+      "fautras-jms-15-place": 25,
+      "van-cheval-humbaur": 25
+    }
+  },
+  "image_analysis": {
+    "total_images": 277,
+    "main_product_rows": 12,
+    "image_only_rows": 265,
+    "average_images_per_product": "23.08"
+  },
+  "data_completeness": {
+    "products_with_descriptions": 12,
+    "products_with_prices": 12,
+    "products_with_skus": 12,
+    "products_with_weight": 0
+  },
+  "vendors": [
+    "GSHandels",
+    "Fautras",
+    "VanDuCheval",
+    "Humbaur"
+  ],
+  "product_types": [
+    "Container Pool",
+    "Pool",
+    "Van équestre"
+  ]
+}

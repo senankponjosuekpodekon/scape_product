@@ -1,0 +1,48 @@
+{
+  "generated_at": "2026-06-11T01:55:54.784Z",
+  "total_products": 5,
+  "pool_products": 0,
+  "vanducheval_products": 5,
+  "products": [
+    {
+      "handle": "van-fautras-oblic-3-2018",
+      "title": "Van Fautras Oblic 3 2018",
+      "vendor": "Fautras",
+      "type": "Van équestre",
+      "price": "14800.00",
+      "is_pool": false
+    },
+    {
+      "handle": "van-cheval-liberte-gold-3",
+      "title": "VAN CHEVAL LIBERTE GOLD 3",
+      "vendor": "VanDuCheval",
+      "type": "Van équestre",
+      "price": "7290.00",
+      "is_pool": false
+    },
+    {
+      "handle": "fautras-provan-classic",
+      "title": "FAUTRAS PROVAN CLASSIC",
+      "vendor": "Fautras",
+      "type": "Van équestre",
+      "price": "10810.00",
+      "is_pool": false
+    },
+    {
+      "handle": "fautras-jms-15-place",
+      "title": "FAUTRAS JMS (1,5 PLACE)",
+      "vendor": "Fautras",
+      "type": "Van équestre",
+      "price": "6200.00",
+      "is_pool": false
+    },
+    {
+      "handle": "van-cheval-humbaur",
+      "title": "VAN Cheval Humbaur",
+      "vendor": "Humbaur",
+      "type": "Van équestre",
+      "price": "6000.00",
+      "is_pool": false
+    }
+  ]
+}

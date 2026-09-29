@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-05-19T23:08:04.037Z",
+  "rows": 87,
+  "issue_count": 2,
+  "issues": [
+    {
+      "row": 6,
+      "id": "eccity-anti-tilting-option",
+      "field": "image_link",
+      "issue": "placeholder_image"
+    },
+    {
+      "row": 83,
+      "id": "silence-s04",
+      "field": "price",
+      "issue": "missing_required"
+    }
+  ]
+}

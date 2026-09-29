@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-06-11T01:28:06.580Z",
+  "total_products": 146,
+  "total_rows": 4142,
+  "products_with_images": 4142,
+  "products_with_descriptions": 146,
+  "products_with_prices": 146,
+  "average_images_per_product": "29.59",
+  "product_types": [
+    "Van équestre"
+  ],
+  "materials": [
+    "Acier",
+    "Aluminium",
+    "Polyester",
+    "Bois",
+    "Tôle"
+  ],
+  "colors": [
+    "Noir",
+    "Gris",
+    "Or",
+    "Vert",
+    "Blanc",
+    "Bleu",
+    "Marron",
+    "Argent"
+  ],
+  "brands": [
+    "Fautras",
+    "VanDuCheval",
+    "Humbaur",
+    "Mustang",
+    "Böckmann",
+    "Imara",
+    "Westfalia",
+    "Hotra",
+    "Barbot",
+    "Atec",
+    "Aceko",
+    "Desforges",
+    "Saris",
+    "Renault"
+  ]
+}

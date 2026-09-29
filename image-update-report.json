@@ -1,0 +1,12 @@
+{
+  "updated_at": "2026-06-11T01:33:52.295Z",
+  "original_products": 83,
+  "total_rows": 128,
+  "products_with_updated_images": 5,
+  "total_images_updated": 51,
+  "average_images_per_product": "0.61",
+  "sources": {
+    "gshandels_products": 225,
+    "vanducheval_products": 146
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "analyzed_at": "2026-06-11T01:46:26.595Z",
+  "file": "deutsche-boutique-shopify-feed-final.csv",
+  "summary": {
+    "total_container_pools": 5,
+    "pools_count": 5,
+    "containers_count": 0,
+    "pools_with_images": 5,
+    "average_images_per_pool": "1.0"
+  },
+  "pools": [
+    {
+      "handle": "pool-001",
+      "title": "Container-Spa-Pool 3.0 x 2.5 m mit Whirlpool - Komplettset",
+      "vendor": "",
+      "type": "",
+      "price": "9999.00",
+      "image_count": 1,
+      "main_image": "https://gshandels.com/wp-content/uploads/2026/02/container-spa-pool-3x2-5.jpg",
+      "tags": "",
+      "status": ""
+    },
+    {
+      "handle": "pool-002",
+      "title": "6.5 m x 2.5 m Polypropylen-Pool mit 4 m Panoramafenster",
+      "vendor": "",
+      "type": "",
+      "price": "9999.00",
+      "image_count": 1,
+      "main_image": "https://gshandels.com/wp-content/uploads/2026/02/polypropylen-pool-6-5x2-5.jpg",
+      "tags": "",
+      "status": ""
+    },
+    {
+      "handle": "pool-003",
+      "title": "Containerbecken 6.2 x 2.5 m mit Jet Swim Gegenstromanlage",
+      "vendor": "",
+      "type": "",
+      "price": "2000.00",
+      "image_count": 1,
+      "main_image": "https://gshandels.com/wp-content/uploads/2026/02/containerbecken-jet-swim.jpg",
+      "tags": "",
+      "status": ""
+    },
+    {
+      "handle": "pool-004",
+      "title": "Containerpool 6.11 x 2.5 m mit Waermepumpe - Premium-Paket",
+      "vendor": "",
+      "type": "",
+      "price": "9999.00",
+      "image_count": 1,
+      "main_image": "https://gshandels.com/wp-content/uploads/2026/02/containerpool-waermepumpe.jpg",
+      "tags": "",
+      "status": ""
+    },
+    {
+      "handle": "pool-005",
+      "title": "Mobiler Mini-Schwimmbad-Container 5.25 x 2.55 x 1.26 m",
+      "vendor": "",
+      "type": "",
+      "price": "2000.00",
+      "image_count": 1,
+      "main_image": "https://gshandels.com/wp-content/uploads/2026/02/mini-schwimmbad-container.jpg",
+      "tags": "",
+      "status": ""
+    }
+  ],
+  "containers": []
+}

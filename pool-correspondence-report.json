@@ -1,0 +1,45 @@
+{
+  "fixed_at": "2026-06-11T01:40:03.599Z",
+  "pool_products_found": 5,
+  "gshandels_pools_analyzed": 0,
+  "matches_found": 0,
+  "fallback_used": 5,
+  "total_images_added": 5,
+  "correspondence": [
+    {
+      "pool_id": "pool-001",
+      "title": "Container-Spa-Pool 3.0 x 2.5 m mit Whirlpool - Komplettset",
+      "matched": false,
+      "match_title": null,
+      "images_count": 0
+    },
+    {
+      "pool_id": "pool-002",
+      "title": "6.5 m x 2.5 m Polypropylen-Pool mit 4 m Panoramafenster",
+      "matched": false,
+      "match_title": null,
+      "images_count": 0
+    },
+    {
+      "pool_id": "pool-003",
+      "title": "Containerbecken 6.2 x 2.5 m mit Jet Swim Gegenstromanlage",
+      "matched": false,
+      "match_title": null,
+      "images_count": 0
+    },
+    {
+      "pool_id": "pool-004",
+      "title": "Containerpool 6.11 x 2.5 m mit Waermepumpe - Premium-Paket",
+      "matched": false,
+      "match_title": null,
+      "images_count": 0
+    },
+    {
+      "pool_id": "pool-005",
+      "title": "Mobiler Mini-Schwimmbad-Container 5.25 x 2.55 x 1.26 m",
+      "matched": false,
+      "match_title": null,
+      "images_count": 0
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-06-10T21:43:16.396Z",
+  "total_products": 185,
+  "total_rows": 1060,
+  "products_with_images": 1060,
+  "products_with_descriptions": 161,
+  "products_with_prices": 185,
+  "average_images_per_product": "5.76",
+  "product_types": [
+    "Container"
+  ],
+  "materials": [
+    "Stahl",
+    "Cortenstahl",
+    "Isolierung",
+    "Glas",
+    "Kunststoff",
+    "Holz",
+    "Aluminium"
+  ],
+  "colors": [
+    "Grün",
+    "Weiß",
+    "Schwarz",
+    "Blau",
+    "Rot",
+    "Gold",
+    "Grau",
+    "Anthrazit"
+  ]
+}

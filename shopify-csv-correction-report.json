@@ -1,0 +1,28 @@
+{
+  "corrected_at": "2026-06-11T01:47:00.034Z",
+  "original_rows": 128,
+  "errors_fixed": {
+    "status": 83,
+    "fulfillment": 128,
+    "inventory": 128,
+    "total": 339
+  },
+  "corrections_applied": {
+    "status": {
+      "invalid_values": [],
+      "default_main_products": "active",
+      "default_image_rows": "draft"
+    },
+    "fulfillment": {
+      "invalid_values": [],
+      "default_value": "manual"
+    },
+    "inventory_policy": {
+      "invalid_values": [
+        "8999.00"
+      ],
+      "default_value": "deny"
+    }
+  },
+  "output_file": "deutsche-boutique-shopify-feed-corrected.csv"
+}

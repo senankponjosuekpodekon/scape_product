@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-06-11T01:58:35.914Z",
+  "total_rows": 214,
+  "sources": {
+    "gshandels_complete": {
+      "file": "gshandels-shopify-import-complete.csv",
+      "total_rows": 1060
+    },
+    "vanducheval_complete": {
+      "file": "vanducheval-shopify-import.csv",
+      "total_rows": 4142
+    },
+    "deutsche_boutique": {
+      "file": "deutsche-boutique-shopify-feed.csv",
+      "total_rows": 0
+    }
+  },
+  "pool_products": {
+    "unique_handles": 0,
+    "total_rows": 0,
+    "handles": [],
+    "rows_by_handle": {}
+  },
+  "van_products": {
+    "unique_handles": 5,
+    "total_rows": 214,
+    "handles": [
+      "van-fautras-oblic-3-2018",
+      "van-cheval-liberte-gold-3",
+      "fautras-provan-classic",
+      "fautras-jms-15-place",
+      "van-cheval-humbaur"
+    ],
+    "rows_by_handle": {
+      "van-fautras-oblic-3-2018": 29,
+      "van-cheval-liberte-gold-3": 79,
+      "fautras-provan-classic": 56,
+      "fautras-jms-15-place": 25,
+      "van-cheval-humbaur": 25
+    }
+  },
+  "image_analysis": {
+    "total_images": 214,
+    "main_product_rows": 7,
+    "image_only_rows": 207,
+    "average_images_per_product": "30.57"
+  },
+  "data_completeness": {
+    "products_with_descriptions": 7,
+    "products_with_prices": 7,
+    "products_with_skus": 7,
+    "products_with_weight": 0
+  }
+}
