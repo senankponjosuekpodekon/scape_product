@@ -53,10 +53,52 @@ async function translateAll(strings) {
   }
 }
 
+const EXACT = {
+  'bois': 'Holz', 'Bois': 'Holz', 'Frêne': 'Esche', 'Charme': 'Hainbuche',
+  'Bûches calorifiques': 'Heizscheite', 'Poêle étanche': 'Raumluftunabhängiger Ofen',
+  'BRIQUETTES & CHARBON': 'Briketts & Kohle', 'Valeur calorique': 'Heizwert', 'Rendement calorifique': 'Heizleistung',
+  'Poêle à charbon avec bec (entonnoir)': 'Kohleofen mit Trichter',
+};
+
+// [regex sur la traduction, remplacement, condition optionnelle sur le texte source]
+const FIXES = [
+  [/\bSTERE[SN]?\b/g, 'STER'], [/\bStères\b/g, 'Ster'],
+  [/Kann sofort zurückgegeben werden/g, 'Sofort brennbereit'],
+  [/Kalorienprotokolle/g, 'Heizscheite'], [/Protokolle/g, 'Scheite'], [/Protokollgröße/g, 'Scheitlänge'], [/Protokolllänge/g, 'Scheitlänge'],
+  [/Herdgröße/g, 'Scheitlänge'], [/des Herdes/g, 'des Ofens'], [/glänzende Holzkohle/g, 'glänzende Kohle'],
+  [/Holzstämme/g, 'Holzscheite'], [/\bStämme/g, 'Scheite'], [/Stammholz/g, 'Scheitholz'],
+  [/NACHTSTÖCKE/g, 'NACHTSCHEITE'], [/HOLZSTÖCKE/g, 'HOLZSCHEITE'],
+  [/HERD & KAMIN/g, 'OFEN & KAMIN'], [/\bHerde\b/g, 'Öfen'], [/\bHerd\b/g, 'Ofen'], [/Pfannen/g, 'Öfen', /po[eê]le/i],
+  [/Verlorene Palette \(keine Rückgabe möglich\)/g, 'Einwegpalette (ohne Pfand)'],
+  [/PELLET-DACHS/g, 'PELLET BADGER'], [/Dachspellets/g, 'Badger-Pellets'], [/Dachsholzpellets/g, 'Badger-Holzpellets'], [/\bDachs\b/g, 'Badger'],
+  [/GRÜNE ENERGIE/g, 'GREEN ENERGY'], [/BIO ENERGY/g, 'BIO ENERGIE'], [/Pellet Natural Energy/g, 'Pellet Natural Energie'],
+  [/Holzenergie-Pelletmühle/g, 'Pellet Moulin Bois Energie'], [/ELEKTROPOWER/g, 'ELECTROPOWER'],
+  [/E-MAIL/g, 'emailliert'], [/emailliertes Poujoulat/g, 'emailliert Poujoulat'], [/Konische Redu(ktion|zierung)/g, 'Konisches Reduzierstück'],
+  [/Holzofenschlauch aus Edelstahl/g, 'Edelstahl-Flexrohr für Holzofen'],
+  [/Thermischer Anlagenzerkleinerer/g, 'Benzin-Gartenhäcksler'], [/Anlagenzerkleinerer/g, 'Gartenhäcksler'],
+  [/Wasserdichte(r|n|s|m)?\b/g, 'Raumluftunabhängige$1', /[ée]tanche/i], [/wasserdichte(r|n|s|m)?\b/g, 'raumluftunabhängige$1', /[ée]tanche/i],
+  [/([Ww])asserdicht(?![a-zäöüß])/g, (_, w) => (w === 'W' ? 'R' : 'r') + 'aumluftunabhängig', /[ée]tanche/i],
+  [/Saugnapf-Set/g, 'Ventouse-Set', /ventouse/i], [/Kit Saugnapf/g, 'Ventouse-Set', /ventouse/i], [/Saugnapfmontage/g, 'Ventouse-Montage', /ventouse/i],
+  [/Installation des Saugnapfes/g, 'Ventouse-Installation', /ventouse/i], [/mit (einem )?Saugnapf/g, 'als Ventouse', /ventouse/i], [/Saugnapf/g, 'Ventouse', /ventouse/i],
+  [/Kanalfähiger Pelletofen Ricanto 10 kW/g, 'Pelletofen Ricanto mit Warmluftverteilung 10 kW'], [/kanalisierbare Pelletofen/g, 'Pelletofen mit Warmluftverteilung'],
+  [/Holzkohleöfen/g, 'Kohleöfen'], [/Holzkohleofen/g, 'Kohleofen'], [/Holzkohlesorten/g, 'Kohlesorten'],
+  [/Holzkohle(,)? 100 % Anthrazit/g, 'Kohle$1 100 % Anthrazit'], [/Carbon 100 %/g, 'Kohle 100 %'], [/Briketts und Holzkohle/g, 'Briketts & Kohle'],
+  [/Holzkohlen/g, 'Kleinholzscheite', /charbonette/i], [/Charbonettes/g, 'Kleinholzscheite'],
+  [/Charme ultratrockenes Brennholz/g, 'Ultratrockenes Hainbuchen-Brennholz'], [/Charme-Brennholz/g, 'Hainbuchen-Brennholz'], [/\bCharme\b/g, 'Hainbuche', /charme/i],
+  [/\bAsche\b/g, 'Esche', /frêne/i],
+  [/Kalorienwert/g, 'Heizwert'], [/Kalorienertrag/g, 'Heizleistung'], [/Kalorienleistung/g, 'Heizleistung'],
+  [/kalorienreichsten Arten/g, 'heizwertreichsten Holzarten'], [/keine verschwendeten Kalorien/g, 'keine Wärmeverluste'],
+  [/keine Vorsprünge/g, 'keinen Funkenflug'], [/Palettenhackschnitzel/g, 'Holzhackschnitzel (Palette)'],
+  [/Densified Night Log/g, 'Nacht-Pressholzscheit'], [/Pelletlagerung/g, 'Pellet-Aufbewahrung'],
+  [/harzig/g, 'Nadelholz', /résineux/i], [/Maximale Akkulaufzeit/g, 'Maximale Brenndauer'], [/\bReichweite\b/g, 'Produktreihe', /Gamme/],
+];
+
+const fix = (src, out) => FIXES.reduce((t, [re, rep, cond]) => (!cond || cond.test(src) ? t.replace(re, rep) : t), out);
+
 const tr = (s) => {
   if (!s || !/\p{L}/u.test(s)) return s;
-  const lead = s.match(/^\s*/)[0], trail = s.match(/\s*$/)[0];
-  return lead + (cache[s.trim()] ?? s.trim()) + trail;
+  const lead = s.match(/^\s*/)[0], trail = s.match(/\s*$/)[0], src = s.trim();
+  return lead + (EXACT[src] ?? fix(src, cache[src] ?? src)) + trail;
 };
 
 function htmlTextNodes(html) {
